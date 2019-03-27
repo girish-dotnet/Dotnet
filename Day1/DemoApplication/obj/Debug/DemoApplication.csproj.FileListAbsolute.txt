@@ -1,0 +1,7 @@
+C:\csh\DemoApplication\obj\Debug\DemoApplication.csprojAssemblyReference.cache
+C:\csh\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
+C:\csh\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\csh\DemoApplication\bin\Debug\DemoApplication.exe
+C:\csh\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\csh\DemoApplication\obj\Debug\DemoApplication.exe
+C:\csh\DemoApplication\obj\Debug\DemoApplication.pdb
