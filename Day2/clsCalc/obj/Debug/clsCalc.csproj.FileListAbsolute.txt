@@ -1,0 +1,6 @@
+C:\csh\Day2\clsCalc\bin\Debug\clsCalc.dll
+C:\csh\Day2\clsCalc\bin\Debug\clsCalc.pdb
+C:\csh\Day2\clsCalc\obj\Debug\clsCalc.csprojAssemblyReference.cache
+C:\csh\Day2\clsCalc\obj\Debug\clsCalc.csproj.CoreCompileInputs.cache
+C:\csh\Day2\clsCalc\obj\Debug\clsCalc.dll
+C:\csh\Day2\clsCalc\obj\Debug\clsCalc.pdb

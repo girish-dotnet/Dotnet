@@ -1,0 +1,7 @@
+C:\csh\Day2\LoopDemo1\bin\Debug\LoopDemo1.exe.config
+C:\csh\Day2\LoopDemo1\bin\Debug\LoopDemo1.exe
+C:\csh\Day2\LoopDemo1\bin\Debug\LoopDemo1.pdb
+C:\csh\Day2\LoopDemo1\obj\Debug\LoopDemo1.csprojAssemblyReference.cache
+C:\csh\Day2\LoopDemo1\obj\Debug\LoopDemo1.csproj.CoreCompileInputs.cache
+C:\csh\Day2\LoopDemo1\obj\Debug\LoopDemo1.exe
+C:\csh\Day2\LoopDemo1\obj\Debug\LoopDemo1.pdb

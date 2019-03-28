@@ -1,0 +1,7 @@
+C:\csh\Day2\OutParamDemo\bin\Debug\OutParamDemo.exe.config
+C:\csh\Day2\OutParamDemo\bin\Debug\OutParamDemo.exe
+C:\csh\Day2\OutParamDemo\bin\Debug\OutParamDemo.pdb
+C:\csh\Day2\OutParamDemo\obj\Debug\OutParamDemo.csprojAssemblyReference.cache
+C:\csh\Day2\OutParamDemo\obj\Debug\OutParamDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day2\OutParamDemo\obj\Debug\OutParamDemo.exe
+C:\csh\Day2\OutParamDemo\obj\Debug\OutParamDemo.pdb

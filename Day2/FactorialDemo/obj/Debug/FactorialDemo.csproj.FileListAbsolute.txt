@@ -1,0 +1,7 @@
+C:\csh\Day2\FactorialDemo\bin\Debug\FactorialDemo.exe.config
+C:\csh\Day2\FactorialDemo\bin\Debug\FactorialDemo.exe
+C:\csh\Day2\FactorialDemo\bin\Debug\FactorialDemo.pdb
+C:\csh\Day2\FactorialDemo\obj\Debug\FactorialDemo.csprojAssemblyReference.cache
+C:\csh\Day2\FactorialDemo\obj\Debug\FactorialDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day2\FactorialDemo\obj\Debug\FactorialDemo.exe
+C:\csh\Day2\FactorialDemo\obj\Debug\FactorialDemo.pdb

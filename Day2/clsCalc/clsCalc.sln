@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsCalc", "clsCalc.csproj", "{B03E27A3-09ED-44A5-8A58-486CFF630F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProg", "..\ClientProg\ClientProg.csproj", "{91F73C44-4C01-45A2-8266-DCCABE3E7D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03E27A3-09ED-44A5-8A58-486CFF630F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03E27A3-09ED-44A5-8A58-486CFF630F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03E27A3-09ED-44A5-8A58-486CFF630F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03E27A3-09ED-44A5-8A58-486CFF630F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F73C44-4C01-45A2-8266-DCCABE3E7D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F73C44-4C01-45A2-8266-DCCABE3E7D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F73C44-4C01-45A2-8266-DCCABE3E7D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F73C44-4C01-45A2-8266-DCCABE3E7D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEFC1C2-6539-45B4-8AE4-87315631F83C}
+	EndGlobalSection
+EndGlobal

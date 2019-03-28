@@ -1,0 +1,7 @@
+C:\csh\Day2\LoopDemo1\Factors\bin\Debug\Factors.exe.config
+C:\csh\Day2\LoopDemo1\Factors\bin\Debug\Factors.exe
+C:\csh\Day2\LoopDemo1\Factors\bin\Debug\Factors.pdb
+C:\csh\Day2\LoopDemo1\Factors\obj\Debug\Factors.csprojAssemblyReference.cache
+C:\csh\Day2\LoopDemo1\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+C:\csh\Day2\LoopDemo1\Factors\obj\Debug\Factors.exe
+C:\csh\Day2\LoopDemo1\Factors\obj\Debug\Factors.pdb

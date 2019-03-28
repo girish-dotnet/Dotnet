@@ -1,0 +1,212 @@
+BCL (Base Class Libraries)
+
+FCL (Framework Class Libraries) 
+
+NET Framework provides huge set of Framework (or Base) Class Library (FCL) for common, usual tasks. FCL contains thousands of classes to provide the access to Windows API and common functions like String Manipulation, Common Data Structures, IO, Streams, Threads, Security, Network Programming, Windows Programming, Web Programming, Data Access, etc. It is simply the largest standard library ever shipped with any development environment or programming language. The best part of this library is they follow extremely efficient OO design (design patterns) making their access and use very simple and predictable. You can use the classes in FCL in your program just as you use any other class and can even apply inheritance and polymorphism on these.
+
+What is an Assembly : 
+____________________
+
+When you compile any .NET application first it converts into MSIL. Either exe or dll file will be created. This is known as an Assembly. 
+
+An assembly is a single deployable unit, that which contains all the information about current project, and metadata. 
+
+An assembly contains group of namespaces and a single namespace can be shared by multiple assemblies. 
+
+There are 2 types of asseblies known as 
+
+1) private 
+2) shared 
+
+private asseblies can be used in same application, if you want to make an assembly as shared then you have to copy that in GAC folder (Global Assembly Cache) 
+c:\windows\assembly
+
+Once you copy in GAC folder, it contains properties as cultureInfo, versionInfo, publicKeyToken
+
+CLS (Common Language Specification) 
+
+The code which is there in one .NET framework language can be used in another .NET framework language known as language interoperability. 
+
+CTS (Common Type System) 
+
+All .NET framework languages needs to undergone one common state w.r.t. Data Types and Ranges. Ex : if integer takes 4 bytes in C#, vb.net integer needs to take 4 bytes. 
+
+Garbage Collector (GC)
+ 
+CLR also contains Garbage Collector (GC) which runs in a low-priority thread and checks for un-referenced dynamically allocated memory space. If it finds some data that is no more referenced by any variable/reference, it re-claims it and returns the occupied memory back to the Operating System; so that it can be used by other programs as necessary. The presence of standard Garbage Collector frees the programmer from keeping track of dangling data.
+
+Just In Time Compilers (JITers)
+ 
+When our IL compiled code needs to be executed, CLR invokes JIT compilers which compile the IL code to native executable code (.exe or .dll) for the specific machine and OS. JITers in many ways are different from traditional compilers as they, as their name suggests, compile the IL to native code only when desired e.g., when a function is called, IL of function's body is converted to native code; just in time of need. So, the part of code that is not used by particular run is not converted to native code. If some IL code is converted to native code then the next time when its needed to be used, the CLR uses the same copy without re-compiling. So, if a program runs for sometime, then it won't have any just in time performance penalty. As JITers are aware of processor and OS exactly at runtime, they can optimize the code extremely efficiently resulting in very robust applications. Also, since JITer knows the exact current state of executable code, they can also optimize the code by in-lining small function calls (like replacing body of small function when its called in a loop, saving the function call time). Although, Microsoft stated that C# and .Net are not competing with languages like C++ in efficiency, speed of execution, JITers can make your code even faster than C++ code in some cases when program is run over extended period of time (like web-servers).
+
+DataTypes :
+___________
+
+There are 2 types of data types known as 
+
+1) value types 
+
+	int, float, double, char, bool, byte,short, decimal, etc, uint etc...
+	enums, struts 
+
+2) reference types :
+
+	object, string, classs, Arrays, interfaces, delegates 
+
+The top level class for .NET framework is System.Object from which all classes are derived. 
+
+Value types will be stored in STACK memory and reference types will be stored in HEAP memory. 
+
+Looping Control Structures : 
+_____________________________
+
+   while loop : This loop executes all the statements repeatedly until the condition remains true, if the condition remains false, then it comes out of the loop. for every loop, there are 3 phases known as 
+
+	1) Initialization
+	
+	2) Condition
+
+	3) Increment/Decrement 
+
+
+for loop : Executes the statements repeatedly until the condition remains true.
+
+for(initialization;condition;increment/decrement)
+{
+...
+...
+...
+}
+
+Structure Declaration
+A structure is declared using struct keyword with public, private, or internal modifier. The default modifer is internal for the struct and its members.
+The following declares the simple structure that holds data for employees.
+Example: Structure
+struct Employee
+{
+    public int EmpId;
+    public string FirstName;
+    public string LastName;
+}
+A struct object can be created with or without the new operator, same as primitive type variables. When you create a struct object using the new operator, an appropriate constructor is called.
+
+Types of Parameters : 
+______________________
+
+There are 3 types of parameters known as 
+
+1) in : Only used for input purpose (call by value)
+
+2) ref : Works as call by reference (we get the updated reference values) {for ref we need to give default value}
+
+3) out : Used to return more than one value to the corresponding function. 
+
+Try these programs
+___________________
+
+1) program to check given number if prime or not using ref parameter
+
+2) program to display the factorial of given number using out parameter
+
+3) Program to check the given number is perfect no. or not
+
+4) Program to Print All primes numbers of given range 
+
+5) Program to Check the given number is armstrong number or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+C:\csh\Day2\MemoryDemo\bin\Debug\MemoryDemo.exe.config
+C:\csh\Day2\MemoryDemo\bin\Debug\MemoryDemo.exe
+C:\csh\Day2\MemoryDemo\bin\Debug\MemoryDemo.pdb
+C:\csh\Day2\MemoryDemo\obj\Debug\MemoryDemo.csprojAssemblyReference.cache
+C:\csh\Day2\MemoryDemo\obj\Debug\MemoryDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day2\MemoryDemo\obj\Debug\MemoryDemo.exe
+C:\csh\Day2\MemoryDemo\obj\Debug\MemoryDemo.pdb

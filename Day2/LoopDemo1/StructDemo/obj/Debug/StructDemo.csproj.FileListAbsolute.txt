@@ -1,0 +1,7 @@
+C:\csh\Day2\LoopDemo1\StructDemo\bin\Debug\StructDemo.exe.config
+C:\csh\Day2\LoopDemo1\StructDemo\bin\Debug\StructDemo.exe
+C:\csh\Day2\LoopDemo1\StructDemo\bin\Debug\StructDemo.pdb
+C:\csh\Day2\LoopDemo1\StructDemo\obj\Debug\StructDemo.csprojAssemblyReference.cache
+C:\csh\Day2\LoopDemo1\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day2\LoopDemo1\StructDemo\obj\Debug\StructDemo.exe
+C:\csh\Day2\LoopDemo1\StructDemo\obj\Debug\StructDemo.pdb
