@@ -1,0 +1,10 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection04\bin\Debug\Reflection04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection04\bin\Debug\Reflection04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection04\bin\Debug\Reflection04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection04\obj\Debug\Reflection04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection04\obj\Debug\Reflection04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection04\bin\Debug\Reflection04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection04\bin\Debug\Reflection04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection04\bin\Debug\Reflection04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection04\obj\Debug\Reflection04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection04\obj\Debug\Reflection04.pdb

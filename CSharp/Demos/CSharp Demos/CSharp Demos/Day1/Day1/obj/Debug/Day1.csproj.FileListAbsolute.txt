@@ -1,0 +1,5 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day1\Day1\bin\Debug\Day1.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day1\Day1\bin\Debug\Day1.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day1\Day1\bin\Debug\Day1.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day1\Day1\obj\Debug\Day1.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day1\Day1\obj\Debug\Day1.pdb

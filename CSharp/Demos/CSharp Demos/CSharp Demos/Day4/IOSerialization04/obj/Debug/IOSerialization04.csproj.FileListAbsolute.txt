@@ -1,0 +1,11 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization04\bin\Debug\IOSerialization04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization04\bin\Debug\IOSerialization04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization04\bin\Debug\IOSerialization04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization04\obj\Debug\IOSerialization04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization04\obj\Debug\IOSerialization04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\bin\Debug\IOSerialization04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\bin\Debug\IOSerialization04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\bin\Debug\IOSerialization04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\obj\Debug\IOSerialization04.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\obj\Debug\IOSerialization04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization04\obj\Debug\IOSerialization04.pdb

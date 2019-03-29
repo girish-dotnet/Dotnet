@@ -1,0 +1,5 @@
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection03\bin\Debug\IGATE.Demos.Reflection03.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection03\bin\Debug\IGATE.Demos.Reflection03.pdb
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection03\obj\Debug\IGATE.Demos.Reflection03.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection03\obj\Debug\IGATE.Demos.Reflection03.pdb
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection03\obj\Debug\IGATE.Demos.Reflection03.csprojResolveAssemblyReference.cache

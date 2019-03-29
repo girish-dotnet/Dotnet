@@ -1,0 +1,5 @@
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection02\bin\Debug\IGATE.Demos.Reflection02.exe.config
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection02\bin\Debug\IGATE.Demos.Reflection02.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection02\bin\Debug\IGATE.Demos.Reflection02.pdb
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection02\obj\Debug\IGATE.Demos.Reflection02.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day5\IGATE.Demos.Reflection02\obj\Debug\IGATE.Demos.Reflection02.pdb

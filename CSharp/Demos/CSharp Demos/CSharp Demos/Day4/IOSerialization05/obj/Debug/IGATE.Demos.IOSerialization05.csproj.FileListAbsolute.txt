@@ -1,0 +1,5 @@
+D:\Data\June 2015\Module 2 Course\New Demos\Day4\IGATE.Demos.IOSerialization05\bin\Debug\IGATE.Demos.IOSerialization05.exe.config
+D:\Data\June 2015\Module 2 Course\New Demos\Day4\IGATE.Demos.IOSerialization05\bin\Debug\IGATE.Demos.IOSerialization05.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day4\IGATE.Demos.IOSerialization05\bin\Debug\IGATE.Demos.IOSerialization05.pdb
+D:\Data\June 2015\Module 2 Course\New Demos\Day4\IGATE.Demos.IOSerialization05\obj\Debug\IGATE.Demos.IOSerialization05.exe
+D:\Data\June 2015\Module 2 Course\New Demos\Day4\IGATE.Demos.IOSerialization05\obj\Debug\IGATE.Demos.IOSerialization05.pdb

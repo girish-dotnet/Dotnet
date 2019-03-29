@@ -1,0 +1,11 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection01\bin\Debug\Reflection01.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection01\bin\Debug\Reflection01.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection01\bin\Debug\Reflection01.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection01\obj\Debug\Reflection01.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day5\IGATE.Demos.Reflection01\obj\Debug\Reflection01.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\bin\Debug\Reflection01.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\bin\Debug\Reflection01.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\bin\Debug\Reflection01.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\obj\Debug\Reflection01.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\obj\Debug\Reflection01.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day5\Reflection01\obj\Debug\Reflection01.pdb

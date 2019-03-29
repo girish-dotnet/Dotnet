@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization01", "IOSerialization01\IOSerialization01.csproj", "{2919ADA2-C555-4421-8F54-C15DA60E16DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization02", "IOSerialization02\IOSerialization02.csproj", "{BB8038C6-9A5B-4EDB-8B73-2D98FD7B3156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization03", "IOSerialization03\IOSerialization03.csproj", "{4BBC80BB-1F38-4257-9F05-2D583754B179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization04", "IOSerialization04\IOSerialization04.csproj", "{DD537F5A-4564-409B-AF33-12D6389620C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization05", "IOSerialization05\IOSerialization05.csproj", "{6267FAAC-8CD4-4A9B-A2CC-30E21110DDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSerialization06", "IOSerialization06\IOSerialization06.csproj", "{9BAF226F-A324-4699-AA44-68832A633EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2919ADA2-C555-4421-8F54-C15DA60E16DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2919ADA2-C555-4421-8F54-C15DA60E16DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2919ADA2-C555-4421-8F54-C15DA60E16DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2919ADA2-C555-4421-8F54-C15DA60E16DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8038C6-9A5B-4EDB-8B73-2D98FD7B3156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8038C6-9A5B-4EDB-8B73-2D98FD7B3156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8038C6-9A5B-4EDB-8B73-2D98FD7B3156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8038C6-9A5B-4EDB-8B73-2D98FD7B3156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBC80BB-1F38-4257-9F05-2D583754B179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBC80BB-1F38-4257-9F05-2D583754B179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBC80BB-1F38-4257-9F05-2D583754B179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBC80BB-1F38-4257-9F05-2D583754B179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD537F5A-4564-409B-AF33-12D6389620C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD537F5A-4564-409B-AF33-12D6389620C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD537F5A-4564-409B-AF33-12D6389620C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD537F5A-4564-409B-AF33-12D6389620C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6267FAAC-8CD4-4A9B-A2CC-30E21110DDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6267FAAC-8CD4-4A9B-A2CC-30E21110DDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6267FAAC-8CD4-4A9B-A2CC-30E21110DDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6267FAAC-8CD4-4A9B-A2CC-30E21110DDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAF226F-A324-4699-AA44-68832A633EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF226F-A324-4699-AA44-68832A633EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF226F-A324-4699-AA44-68832A633EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF226F-A324-4699-AA44-68832A633EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

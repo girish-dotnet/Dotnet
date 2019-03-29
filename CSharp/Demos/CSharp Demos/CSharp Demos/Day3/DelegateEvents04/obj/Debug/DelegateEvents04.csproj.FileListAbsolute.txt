@@ -1,0 +1,10 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\bin\Debug\DelegateEvents04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\bin\Debug\DelegateEvents04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\bin\Debug\DelegateEvents04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\obj\Debug\DelegateEvents04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\obj\Debug\DelegateEvents04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day3\DelegateEvents04\bin\Debug\DelegateEvents04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day3\DelegateEvents04\bin\Debug\DelegateEvents04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day3\DelegateEvents04\bin\Debug\DelegateEvents04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day3\DelegateEvents04\obj\Debug\DelegateEvents04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day3\DelegateEvents04\obj\Debug\DelegateEvents04.pdb

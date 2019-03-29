@@ -1,0 +1,10 @@
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization06\bin\Debug\IOSerialization06.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization06\bin\Debug\IOSerialization06.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization06\bin\Debug\IOSerialization06.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization06\obj\Debug\IOSerialization06.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day4\IGATE.Demos.IOSerialization06\obj\Debug\IOSerialization06.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization06\bin\Debug\IOSerialization06.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization06\bin\Debug\IOSerialization06.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization06\bin\Debug\IOSerialization06.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization06\obj\Debug\IOSerialization06.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSharp Demos\Day4\IOSerialization06\obj\Debug\IOSerialization06.pdb

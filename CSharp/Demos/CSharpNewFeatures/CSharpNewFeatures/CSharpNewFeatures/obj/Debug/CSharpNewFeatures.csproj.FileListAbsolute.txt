@@ -1,0 +1,6 @@
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.csprojResolveAssemblyReference.cache
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe.config
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.exe
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\CSharpNewFeatures.pdb
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.exe
+D:\Sangeetha\3.Upgrade\C#6.0 Samples\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\CSharpNewFeatures.pdb

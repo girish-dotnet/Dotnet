@@ -1,0 +1,9 @@
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\bin\Debug\IGATE.Demos.DelegateEvents04.exe.config
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\obj\Debug\IGATE.Demos.DelegateEvents04.csprojResolveAssemblyReference.cache
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\bin\Debug\IGATE.Demos.DelegateEvents04.exe
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\bin\Debug\IGATE.Demos.DelegateEvents04.pdb
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\obj\Debug\IGATE.Demos.DelegateEvents04.exe
+D:\Data\June 2015\Module 2 Course\New Demos\IGATE.Demos.Day3\IGATE.Demos.DelegateEvents04\obj\Debug\IGATE.Demos.DelegateEvents04.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\bin\Debug\IGATE.Demos.DelegateEvents04.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\obj\Debug\IGATE.Demos.DelegateEvents04.exe
+D:\Nachiket\Study Materials\Module 2\Demos\CSDemosBackUp\Day3\IGATE.Demos.DelegateEvents04\obj\Debug\IGATE.Demos.DelegateEvents04.pdb
