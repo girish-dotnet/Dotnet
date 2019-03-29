@@ -1,0 +1,7 @@
+C:\csh\Day3\SwithDemoEx\bin\Debug\SwithDemoEx.exe.config
+C:\csh\Day3\SwithDemoEx\bin\Debug\SwithDemoEx.exe
+C:\csh\Day3\SwithDemoEx\bin\Debug\SwithDemoEx.pdb
+C:\csh\Day3\SwithDemoEx\obj\Debug\SwithDemoEx.csprojAssemblyReference.cache
+C:\csh\Day3\SwithDemoEx\obj\Debug\SwithDemoEx.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\obj\Debug\SwithDemoEx.exe
+C:\csh\Day3\SwithDemoEx\obj\Debug\SwithDemoEx.pdb

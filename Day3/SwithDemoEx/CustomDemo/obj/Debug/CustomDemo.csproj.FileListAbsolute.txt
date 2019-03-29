@@ -1,0 +1,6 @@
+C:\csh\Day3\SwithDemoEx\CustomDemo\obj\Debug\CustomDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\CustomDemo\bin\Debug\CustomDemo.exe.config
+C:\csh\Day3\SwithDemoEx\CustomDemo\bin\Debug\CustomDemo.exe
+C:\csh\Day3\SwithDemoEx\CustomDemo\bin\Debug\CustomDemo.pdb
+C:\csh\Day3\SwithDemoEx\CustomDemo\obj\Debug\CustomDemo.exe
+C:\csh\Day3\SwithDemoEx\CustomDemo\obj\Debug\CustomDemo.pdb

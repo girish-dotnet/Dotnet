@@ -1,0 +1,6 @@
+C:\csh\Day3\SwithDemoEx\BoxEmploy\bin\Debug\BoxEmploy.exe.config
+C:\csh\Day3\SwithDemoEx\BoxEmploy\bin\Debug\BoxEmploy.exe
+C:\csh\Day3\SwithDemoEx\BoxEmploy\bin\Debug\BoxEmploy.pdb
+C:\csh\Day3\SwithDemoEx\BoxEmploy\obj\Debug\BoxEmploy.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\BoxEmploy\obj\Debug\BoxEmploy.exe
+C:\csh\Day3\SwithDemoEx\BoxEmploy\obj\Debug\BoxEmploy.pdb

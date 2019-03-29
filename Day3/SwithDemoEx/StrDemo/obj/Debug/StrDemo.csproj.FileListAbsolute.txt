@@ -1,0 +1,6 @@
+C:\csh\Day3\SwithDemoEx\StrDemo\bin\Debug\StrDemo.exe.config
+C:\csh\Day3\SwithDemoEx\StrDemo\bin\Debug\StrDemo.exe
+C:\csh\Day3\SwithDemoEx\StrDemo\bin\Debug\StrDemo.pdb
+C:\csh\Day3\SwithDemoEx\StrDemo\obj\Debug\StrDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\StrDemo\obj\Debug\StrDemo.exe
+C:\csh\Day3\SwithDemoEx\StrDemo\obj\Debug\StrDemo.pdb

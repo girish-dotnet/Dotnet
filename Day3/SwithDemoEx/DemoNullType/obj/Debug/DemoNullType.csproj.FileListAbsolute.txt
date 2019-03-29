@@ -1,0 +1,7 @@
+C:\csh\Day3\SwithDemoEx\DemoNullType\bin\Debug\DemoNullType.exe.config
+C:\csh\Day3\SwithDemoEx\DemoNullType\bin\Debug\DemoNullType.exe
+C:\csh\Day3\SwithDemoEx\DemoNullType\bin\Debug\DemoNullType.pdb
+C:\csh\Day3\SwithDemoEx\DemoNullType\obj\Debug\DemoNullType.csprojAssemblyReference.cache
+C:\csh\Day3\SwithDemoEx\DemoNullType\obj\Debug\DemoNullType.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\DemoNullType\obj\Debug\DemoNullType.exe
+C:\csh\Day3\SwithDemoEx\DemoNullType\obj\Debug\DemoNullType.pdb

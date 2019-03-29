@@ -1,0 +1,7 @@
+C:\csh\Day3\SwithDemoEx\BoxRuntime\bin\Debug\BoxRuntime.exe.config
+C:\csh\Day3\SwithDemoEx\BoxRuntime\bin\Debug\BoxRuntime.exe
+C:\csh\Day3\SwithDemoEx\BoxRuntime\bin\Debug\BoxRuntime.pdb
+C:\csh\Day3\SwithDemoEx\BoxRuntime\obj\Debug\BoxRuntime.csprojAssemblyReference.cache
+C:\csh\Day3\SwithDemoEx\BoxRuntime\obj\Debug\BoxRuntime.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\BoxRuntime\obj\Debug\BoxRuntime.exe
+C:\csh\Day3\SwithDemoEx\BoxRuntime\obj\Debug\BoxRuntime.pdb

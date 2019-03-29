@@ -1,0 +1,212 @@
+System.Collections.Generic.Stack<int> stack =
+  new System.Collections.Generic.Stack<int>();
+int number;
+System.Collections.Generic.Stack<int>.Enumerator
+  enumerator;
+// ...
+// If IEnumerable<T> is implemented explicitly,
+// then a cast is required.
+// ((IEnumerable<int>)stack).GetEnumerator();
+enumerator = stack.GetEnumerator();
+while (enumerator.MoveNext())
+{
+  number = enumerator.Current;
+  Console.WriteLine(number);
+}
+
+Array : An array is the finite ordered set of homogeneous elements, means all the elements belongs to same data type. Elements of the array are stored in successive memory locations. 
+
+Advantages of C# Array
+o	Code Optimization (less code)
+o	Random Access
+o	Easy to traverse data
+o	Easy to manipulate data
+o	Easy to sort data etc.
+Disadvantages of C# Array
+o	Fixed size
+
+syntax to declare an array 
+__________________________
+
+
+1.	int[] arr = new int[5];//creating array  
+
+You cannot place square brackets after the identifier.
+
+1.	int arr[] = new int[5];//compile time error  
+
+assign values of an array : 
+____________________________
+
+int[] arr = new int[]{12,5,6,23,44};
+then 
+
+arr[0]=12;
+arr[1]=5;
+arr[2]=6;
+arr[3]=23;
+arr[4]=44;
+
+int[] arr = new int[] { 12, 5, 67, 23, 33, 24 };
+            foreach(int i in arr)
+            {
+                Console.WriteLine(i);
+            }
+internal working for foreach loop : 
+____________________________________
+
+In foreach loop, at first index i points to the first element in array arr, after processing the first element it checks next element is there or not by using HasMoreElements(), if HasMoreElements() returns true, then it moves to the next element by using MoveNext(), it repeats as soon as HasMoreElements() returns false. 
+
+
+C# Multidimensional Arrays
+The multidimensional array is also known as rectangular arrays in C#. It can be two dimensional or three dimensional. The data is stored in tabular form (row * column) which is also known as matrix.
+To create multidimensional array, we need to use comma inside the square brackets. For example:
+1.	int[,] arr=new int[3,3];//declaration of 2D array  
+2.	int[,,] arr=new int[3,3,3];//declaration of 3D array  
+
+
+C# Jagged Arrays
+
+In C#, jagged array is also known as "array of arrays" because its elements are arrays. The element size of jagged array can be different.
+
+Declaration of Jagged array
+
+Let's see an example to declare jagged array that has two elements.
+
+1.	int[][] arr = new int[2][];  
+
+Initialization of Jagged array
+
+Let's see an example to initialize jagged array. The size of elements can be different.
+
+1.	arr[0] = new int[4];  
+2.	arr[1] = new int[6];  
+
+
+void show(int x)
+{
+...
+...
+}
+
+show();
+show(12);
+show(12,5);
+show(12,5,7);
+
+
+Boxing and Unboxing : The process of converting value types to referece types known as boxing, and reference types to value types known as unboxing. 
+
+object is data type that which can be used for boxing and unboxing. 
+
+int x;
+
+x=12.5;
+x=12;
+x='A';
+x="Hello";
+
+object x;
+
+x=12.5;
+x=12;
+x='A';
+x="Hello";
+
+all the statements will work 
+
+Method Overloading : 
+
+The concept of using the same function name w.r.t. Different parameters or different no.of parameters konwn as method overloading. Here, the method name must be same, but no.of parameters or type of parameters we are passing are different. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C# Params
+
+
+In C#, params is a keyword which is used to specify a parameter that takes variable number of arguments. It is useful when we don't know the number of arguments prior. Only one params keyword is allowed and no additional parameter is permitted after params keyword in a function declaration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

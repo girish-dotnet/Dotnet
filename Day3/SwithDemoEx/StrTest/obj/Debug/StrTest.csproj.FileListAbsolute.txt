@@ -1,0 +1,7 @@
+C:\csh\Day3\SwithDemoEx\StrTest\bin\Debug\StrTest.exe.config
+C:\csh\Day3\SwithDemoEx\StrTest\bin\Debug\StrTest.exe
+C:\csh\Day3\SwithDemoEx\StrTest\bin\Debug\StrTest.pdb
+C:\csh\Day3\SwithDemoEx\StrTest\obj\Debug\StrTest.csprojAssemblyReference.cache
+C:\csh\Day3\SwithDemoEx\StrTest\obj\Debug\StrTest.csproj.CoreCompileInputs.cache
+C:\csh\Day3\SwithDemoEx\StrTest\obj\Debug\StrTest.exe
+C:\csh\Day3\SwithDemoEx\StrTest\obj\Debug\StrTest.pdb
