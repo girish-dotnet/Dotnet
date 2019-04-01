@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\Inhc\bin\Debug\Inhc.exe.config
+C:\csh\Day4\ConDemos\Inhc\bin\Debug\Inhc.exe
+C:\csh\Day4\ConDemos\Inhc\bin\Debug\Inhc.pdb
+C:\csh\Day4\ConDemos\Inhc\obj\Debug\Inhc.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\Inhc\obj\Debug\Inhc.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\Inhc\obj\Debug\Inhc.exe
+C:\csh\Day4\ConDemos\Inhc\obj\Debug\Inhc.pdb

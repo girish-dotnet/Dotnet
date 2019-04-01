@@ -1,0 +1,7 @@
+C:\csh\Day4\ConEx\bin\Debug\ConEx.exe.config
+C:\csh\Day4\ConEx\bin\Debug\ConEx.exe
+C:\csh\Day4\ConEx\bin\Debug\ConEx.pdb
+C:\csh\Day4\ConEx\obj\Debug\ConEx.csprojAssemblyReference.cache
+C:\csh\Day4\ConEx\obj\Debug\ConEx.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConEx\obj\Debug\ConEx.exe
+C:\csh\Day4\ConEx\obj\Debug\ConEx.pdb

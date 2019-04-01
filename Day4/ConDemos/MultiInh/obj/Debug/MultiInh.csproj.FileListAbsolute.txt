@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\MultiInh\bin\Debug\MultiInh.exe.config
+C:\csh\Day4\ConDemos\MultiInh\bin\Debug\MultiInh.exe
+C:\csh\Day4\ConDemos\MultiInh\bin\Debug\MultiInh.pdb
+C:\csh\Day4\ConDemos\MultiInh\obj\Debug\MultiInh.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\MultiInh\obj\Debug\MultiInh.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\MultiInh\obj\Debug\MultiInh.exe
+C:\csh\Day4\ConDemos\MultiInh\obj\Debug\MultiInh.pdb

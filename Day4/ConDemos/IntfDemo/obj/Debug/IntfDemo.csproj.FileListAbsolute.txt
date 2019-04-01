@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\IntfDemo\bin\Debug\IntfDemo.exe.config
+C:\csh\Day4\ConDemos\IntfDemo\bin\Debug\IntfDemo.exe
+C:\csh\Day4\ConDemos\IntfDemo\bin\Debug\IntfDemo.pdb
+C:\csh\Day4\ConDemos\IntfDemo\obj\Debug\IntfDemo.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\IntfDemo\obj\Debug\IntfDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\IntfDemo\obj\Debug\IntfDemo.exe
+C:\csh\Day4\ConDemos\IntfDemo\obj\Debug\IntfDemo.pdb

@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\BaseDemo\bin\Debug\BaseDemo.exe.config
+C:\csh\Day4\ConDemos\BaseDemo\bin\Debug\BaseDemo.exe
+C:\csh\Day4\ConDemos\BaseDemo\bin\Debug\BaseDemo.pdb
+C:\csh\Day4\ConDemos\BaseDemo\obj\Debug\BaseDemo.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\BaseDemo\obj\Debug\BaseDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\BaseDemo\obj\Debug\BaseDemo.exe
+C:\csh\Day4\ConDemos\BaseDemo\obj\Debug\BaseDemo.pdb

@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\StaticVariable\bin\Debug\StaticVariable.exe.config
+C:\csh\Day4\ConDemos\StaticVariable\bin\Debug\StaticVariable.exe
+C:\csh\Day4\ConDemos\StaticVariable\bin\Debug\StaticVariable.pdb
+C:\csh\Day4\ConDemos\StaticVariable\obj\Debug\StaticVariable.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\StaticVariable\obj\Debug\StaticVariable.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\StaticVariable\obj\Debug\StaticVariable.exe
+C:\csh\Day4\ConDemos\StaticVariable\obj\Debug\StaticVariable.pdb

@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\AbsExs\bin\Debug\AbsExs.exe.config
+C:\csh\Day4\ConDemos\AbsExs\bin\Debug\AbsExs.exe
+C:\csh\Day4\ConDemos\AbsExs\bin\Debug\AbsExs.pdb
+C:\csh\Day4\ConDemos\AbsExs\obj\Debug\AbsExs.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\AbsExs\obj\Debug\AbsExs.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\AbsExs\obj\Debug\AbsExs.exe
+C:\csh\Day4\ConDemos\AbsExs\obj\Debug\AbsExs.pdb

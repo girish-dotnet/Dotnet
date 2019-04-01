@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\IntfAmbEx\bin\Debug\IntfAmbEx.exe.config
+C:\csh\Day4\ConDemos\IntfAmbEx\bin\Debug\IntfAmbEx.exe
+C:\csh\Day4\ConDemos\IntfAmbEx\bin\Debug\IntfAmbEx.pdb
+C:\csh\Day4\ConDemos\IntfAmbEx\obj\Debug\IntfAmbEx.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\IntfAmbEx\obj\Debug\IntfAmbEx.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\IntfAmbEx\obj\Debug\IntfAmbEx.exe
+C:\csh\Day4\ConDemos\IntfAmbEx\obj\Debug\IntfAmbEx.pdb

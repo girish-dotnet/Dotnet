@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\InhTest\obj\Debug\InhTest.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\InhTest\bin\Debug\InhTest.exe.config
+C:\csh\Day4\ConDemos\InhTest\bin\Debug\InhTest.exe
+C:\csh\Day4\ConDemos\InhTest\bin\Debug\InhTest.pdb
+C:\csh\Day4\ConDemos\InhTest\obj\Debug\InhTest.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\InhTest\obj\Debug\InhTest.exe
+C:\csh\Day4\ConDemos\InhTest\obj\Debug\InhTest.pdb

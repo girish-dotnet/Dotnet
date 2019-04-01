@@ -1,0 +1,7 @@
+C:\csh\Day4\ConDemos\bin\Debug\ConDemos.exe.config
+C:\csh\Day4\ConDemos\bin\Debug\ConDemos.exe
+C:\csh\Day4\ConDemos\bin\Debug\ConDemos.pdb
+C:\csh\Day4\ConDemos\obj\Debug\ConDemos.csprojAssemblyReference.cache
+C:\csh\Day4\ConDemos\obj\Debug\ConDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\obj\Debug\ConDemos.exe
+C:\csh\Day4\ConDemos\obj\Debug\ConDemos.pdb

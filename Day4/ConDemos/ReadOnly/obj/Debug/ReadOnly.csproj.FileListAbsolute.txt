@@ -1,0 +1,6 @@
+C:\csh\Day4\ConDemos\ReadOnly\bin\Debug\ReadOnly.exe.config
+C:\csh\Day4\ConDemos\ReadOnly\bin\Debug\ReadOnly.exe
+C:\csh\Day4\ConDemos\ReadOnly\bin\Debug\ReadOnly.pdb
+C:\csh\Day4\ConDemos\ReadOnly\obj\Debug\ReadOnly.csproj.CoreCompileInputs.cache
+C:\csh\Day4\ConDemos\ReadOnly\obj\Debug\ReadOnly.exe
+C:\csh\Day4\ConDemos\ReadOnly\obj\Debug\ReadOnly.pdb
