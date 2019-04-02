@@ -1,0 +1,7 @@
+C:\csh\Day5\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\csh\Day5\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\csh\Day5\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\csh\Day5\CollectionsDemo\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+C:\csh\Day5\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day5\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\csh\Day5\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

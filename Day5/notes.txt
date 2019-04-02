@@ -1,0 +1,289 @@
+Example. Please look at the Employee class. This class implements IComparable<Employee>, which means an Employee instance can be compared with other Employee instances. The Employee class has two instance properties: Salary and Name.
+Also:
+The Employee class provides the CompareTo(Employee) method and the ToString method.
+Based on: .NET (2019)
+
+49127059
+
+C# program that implements IComparable interface
+
+using System;
+using System.Collections.Generic;
+
+class Employee : IComparable<Employee>
+{
+    public int Salary { get; set; }
+    public string Name { get; set; }
+
+    public int CompareTo(Employee other)
+    {
+        // Alphabetic sort if salary is equal. [A to Z]
+        if (this.Salary == other.Salary)
+        {
+            return this.Name.CompareTo(other.Name);
+        }
+        // Default to salary sort. [High to low]
+        return other.Salary.CompareTo(this.Salary);
+    }
+
+    public override string ToString()
+    {
+        // String representation.
+        return this.Salary.ToString() + "," + this.Name;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<Employee> list = new List<Employee>();
+        list.Add(new Employee() { Name = "Steve", Salary = 10000 });
+        list.Add(new Employee() { Name = "Janet", Salary = 10000 });
+        list.Add(new Employee() { Name = "Andrew", Salary = 10000 });
+        list.Add(new Employee() { Name = "Bill", Salary = 500000 });
+        list.Add(new Employee() { Name = "Lucy", Salary = 8000 });
+
+        // Uses IComparable.CompareTo()
+        list.Sort();
+
+        // Uses Employee.ToString
+        foreach (var element in list)
+        {
+            Console.WriteLine(element);
+        }
+    }
+}
+
+
+________________________________________________________________________________________
+
+static void Main(string[] args)  
+{  
+    List<int> numbers = new List<int>() { 2, 6, 4, 1, 0, 5, 9, 7, 5 };  
+    Console.WriteLine("Number before Sorting: \n");  
+    foreach (int no in numbers)  
+    {  
+        Console.Write("{0} ",no);  
+    }  
+    numbers.Sort();  
+    Console.WriteLine("\n\nNumber after Sorting: \n");  
+    foreach (int no in numbers)  
+    {  
+        Console.Write("{0} ", no);  
+    }   
+    Console.ReadLine();  
+}  
+
+______________________________________________________________________________________
+
+class Student  
+{  
+    public int Roll_No { get; set; }  
+    public string Name { get; set; }  
+    public int Marks { get; set; }  
+}  
+
+Student s1 = new Student() { Roll_No = 3, Name = "Sunny", Marks = 10 };  
+Student s2 = new Student() { Roll_No = 5, Name = "Abhishek", Marks = 45 };  
+Student s3 = new Student() { Roll_No = 2, Name = "Raj", Marks = 30 };  
+Student s4 = new Student() { Roll_No = 4, Name = "Sandy", Marks = 28 };  
+Student s5 = new Student() { Roll_No = 1, Name = "Mahesh", Marks = 35 };  
+  
+List<Student> studentList = new List<Student>();  
+studentList.Add(s1);  
+studentList.Add(s2);  
+studentList.Add(s3);  
+studentList.Add(s4);  
+studentList.Add(s5);  
+  
+studentList.Sort();  
+
+class Student : IComparable<Student>  
+{  
+    public int Roll_No { get; set; }  
+    public string Name { get; set; }  
+    public int Marks { get; set; }  
+}  
+  
+public int CompareTo(Student other)  
+{  
+    return this.Roll_No.CompareTo(other.Roll_No);  
+}  
+
+using System;/*w w w . j a v  a  2s  .co  m*/
+using System.Collections;
+
+public class SamplesArrayList  {
+
+   public class myReverserClass : IComparer  {
+      int IComparer.Compare( Object x, Object y )  {
+          return( (new CaseInsensitiveComparer()).Compare( y, x ) );
+      }
+
+   }
+
+   public static void Main()  {
+      ArrayList myAL = new ArrayList();
+      myAL.Add( "A" );
+      myAL.Add( "B" );
+      myAL.Add( "C" );
+      myAL.Add( "1" );
+      myAL.Add( "2" );
+      myAL.Add( "3" );
+      myAL.Add( "X" );
+      myAL.Add( "Y" );
+      myAL.Add( "Z" );
+
+      IComparer myComparer = new myReverserClass();
+      myAL.Sort( myComparer );
+
+      foreach ( Object obj in myAL )
+         Console.WriteLine(obj );
+   }
+
+}
+______________________________________________________________________________________
+
+Collections are data structures that holds data in different ways for flexible operataions. To work with collections we need the help of System.Collections namespace. 
+
+ArrayList is one of the most flexible data sturcture which contains simple list of values. It implements IList interface using this we can perform CRUD operations easily. It is flexible to store and retrieve elements. 
+
+Hashtable in C# represents to store data w.r.t. key/value pairs. It arranges elements w.r.t. Hashing order. as GetHashCode() method contains the Hash value from HashTable itself. 
+
+Example : 
+
+Hashtable ht=new Hashtable();
+
+ht.add("key","value");
+
+Generics in C# and .NET procedure many of the benefits of strongly-typed collections as well as provide a higher quality of and a performance boost for code. Generics are very similar to C++ templates but having a slight difference in such a way that the source code of C++ templates is required when a templates is instantiated with a specific type and .NET Generics are not limited to classes only. In fact they can also be implemented with Interfaces, Delegates and Methods. The detailed specification for each collection is found under the System.Collection.Generic namespace.
+
+Features of Generics
+Generics is a technique that enriches your programs in the following ways -
+
+It helps you to maximize code reuse, type safety, and performance.
+
+You can create generic collection classes. The .NET Framework class library contains several new generic collection classes in the System.Collections.Generic namespace. You may use these generic collection classes instead of the collection classes in the System.Collections namespace.
+
+You can create your own generic interfaces, classes, methods, events, and delegates.
+
+You may create generic classes constrained to enable access to methods on particular data types.
+
+You may get information on the types used in a generic data type at run-time by means of reflection.
+
+Generics provides an opportunity to pass runtime datattypes to the program. If you want to make any method as write once and apply for all types, then we need the help of Generics. 
+to work with generics, please 
+use System.Collections.Generic namespace. 
+
+Advantages : 
+____________
+
+	1) we can reduce the size of the program. 
+
+	2) Write once and apply for all types. 
+
+	3) Provides security to the data. 
+
+	4) No Typecasting Required. 
+
+You can define generic by using <T> 
+
+In place of <T> we can pass any data at runtime. 
+
+One of the dynamic feature of C# is codeBloat, means it generates the relenvant code in memory wrt Generic parameter to actual parameter. 
+
+___________________________________________________________________________________________________________
+
+What is IEnumerable interface?
+ 
+IEnumerable is an interface that defines one method, GetEnumerator which returns an IEnumerator interface. This allows readonly access to a collection then a collection that implements IEnumerable can be used with a for-each statement.
+ 
+Key Points
+IEnumerable interface contains the System.Collections.Generic namespace.
+IEnumerable interface is a generic interface which allows looping over generic or non-generic lists.
+IEnumerable interface also works with linq query expression.
+IEnumerable interface Returns an enumerator that iterates through the collection.
+Let us implement the IEnumerable interface in a class as:
+
+
+Methods of IEnumerator Interface
+ 
+ IEnumerator is an interface which helps to get current elements from the collection, it has the following two methods
+MoveNext() 
+Reset()
+MoveNext()
+
+Sets the enumerator to the next element of the collection; it Returns true if the enumerator was successfully set to the next element and false if the enumerator has reached the end of the collection. 
+ 
+Reset()
+
+Sets the enumerator to its initial position, which is before the first element in the collection. 
+ 
+Properties of IEnumerator Interface
+ 
+IEnumerator Interface has a property named  Current which returns the current element in the collection.
+ 
+Let us implement the IEnumerator Interface in class as:
+
+Dictionary : Allows you to display the data w.r.t. Generic <Key,Value> pairs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

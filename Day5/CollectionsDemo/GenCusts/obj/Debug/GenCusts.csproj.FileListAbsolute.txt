@@ -1,0 +1,6 @@
+C:\csh\Day5\CollectionsDemo\GenCusts\bin\Debug\GenCusts.exe.config
+C:\csh\Day5\CollectionsDemo\GenCusts\bin\Debug\GenCusts.exe
+C:\csh\Day5\CollectionsDemo\GenCusts\bin\Debug\GenCusts.pdb
+C:\csh\Day5\CollectionsDemo\GenCusts\obj\Debug\GenCusts.csproj.CoreCompileInputs.cache
+C:\csh\Day5\CollectionsDemo\GenCusts\obj\Debug\GenCusts.exe
+C:\csh\Day5\CollectionsDemo\GenCusts\obj\Debug\GenCusts.pdb
