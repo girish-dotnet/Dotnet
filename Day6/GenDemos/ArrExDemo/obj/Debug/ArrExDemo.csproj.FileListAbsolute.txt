@@ -1,0 +1,7 @@
+C:\csh\Day6\GenDemos\ArrExDemo\bin\Debug\ArrExDemo.exe.config
+C:\csh\Day6\GenDemos\ArrExDemo\bin\Debug\ArrExDemo.exe
+C:\csh\Day6\GenDemos\ArrExDemo\bin\Debug\ArrExDemo.pdb
+C:\csh\Day6\GenDemos\ArrExDemo\obj\Debug\ArrExDemo.csprojAssemblyReference.cache
+C:\csh\Day6\GenDemos\ArrExDemo\obj\Debug\ArrExDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\ArrExDemo\obj\Debug\ArrExDemo.exe
+C:\csh\Day6\GenDemos\ArrExDemo\obj\Debug\ArrExDemo.pdb

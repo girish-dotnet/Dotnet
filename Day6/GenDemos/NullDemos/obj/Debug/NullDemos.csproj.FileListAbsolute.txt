@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\NullDemos\bin\Debug\NullDemos.exe.config
+C:\csh\Day6\GenDemos\NullDemos\bin\Debug\NullDemos.exe
+C:\csh\Day6\GenDemos\NullDemos\bin\Debug\NullDemos.pdb
+C:\csh\Day6\GenDemos\NullDemos\obj\Debug\NullDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\NullDemos\obj\Debug\NullDemos.exe
+C:\csh\Day6\GenDemos\NullDemos\obj\Debug\NullDemos.pdb

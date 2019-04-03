@@ -1,0 +1,7 @@
+C:\csh\Day6\GenDemos\BinW1\bin\Debug\BinW1.exe.config
+C:\csh\Day6\GenDemos\BinW1\bin\Debug\BinW1.exe
+C:\csh\Day6\GenDemos\BinW1\bin\Debug\BinW1.pdb
+C:\csh\Day6\GenDemos\BinW1\obj\Debug\BinW1.csprojAssemblyReference.cache
+C:\csh\Day6\GenDemos\BinW1\obj\Debug\BinW1.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\BinW1\obj\Debug\BinW1.exe
+C:\csh\Day6\GenDemos\BinW1\obj\Debug\BinW1.pdb

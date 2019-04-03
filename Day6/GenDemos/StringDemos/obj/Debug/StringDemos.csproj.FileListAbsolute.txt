@@ -1,0 +1,7 @@
+C:\csh\Day6\GenDemos\StringDemos\bin\Debug\StringDemos.exe.config
+C:\csh\Day6\GenDemos\StringDemos\bin\Debug\StringDemos.exe
+C:\csh\Day6\GenDemos\StringDemos\bin\Debug\StringDemos.pdb
+C:\csh\Day6\GenDemos\StringDemos\obj\Debug\StringDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\StringDemos\obj\Debug\StringDemos.exe
+C:\csh\Day6\GenDemos\StringDemos\obj\Debug\StringDemos.pdb
+C:\csh\Day6\GenDemos\StringDemos\obj\Debug\StringDemos.csprojAssemblyReference.cache

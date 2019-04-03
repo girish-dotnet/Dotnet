@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\bin\Debug\GenDemos.exe.config
+C:\csh\Day6\GenDemos\bin\Debug\GenDemos.exe
+C:\csh\Day6\GenDemos\bin\Debug\GenDemos.pdb
+C:\csh\Day6\GenDemos\obj\Debug\GenDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\obj\Debug\GenDemos.exe
+C:\csh\Day6\GenDemos\obj\Debug\GenDemos.pdb

@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\BinR1\bin\Debug\BinR1.exe.config
+C:\csh\Day6\GenDemos\BinR1\bin\Debug\BinR1.exe
+C:\csh\Day6\GenDemos\BinR1\bin\Debug\BinR1.pdb
+C:\csh\Day6\GenDemos\BinR1\obj\Debug\BinR1.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\BinR1\obj\Debug\BinR1.exe
+C:\csh\Day6\GenDemos\BinR1\obj\Debug\BinR1.pdb

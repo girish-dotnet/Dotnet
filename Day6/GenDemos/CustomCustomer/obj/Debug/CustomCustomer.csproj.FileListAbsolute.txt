@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\CustomCustomer\bin\Debug\CustomCustomer.exe.config
+C:\csh\Day6\GenDemos\CustomCustomer\bin\Debug\CustomCustomer.exe
+C:\csh\Day6\GenDemos\CustomCustomer\bin\Debug\CustomCustomer.pdb
+C:\csh\Day6\GenDemos\CustomCustomer\obj\Debug\CustomCustomer.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\CustomCustomer\obj\Debug\CustomCustomer.exe
+C:\csh\Day6\GenDemos\CustomCustomer\obj\Debug\CustomCustomer.pdb

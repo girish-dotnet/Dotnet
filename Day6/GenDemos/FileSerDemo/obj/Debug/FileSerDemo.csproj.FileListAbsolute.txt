@@ -1,0 +1,7 @@
+C:\csh\Day6\GenDemos\FileSerDemo\bin\Debug\FileSerDemo.exe.config
+C:\csh\Day6\GenDemos\FileSerDemo\bin\Debug\FileSerDemo.exe
+C:\csh\Day6\GenDemos\FileSerDemo\bin\Debug\FileSerDemo.pdb
+C:\csh\Day6\GenDemos\FileSerDemo\obj\Debug\FileSerDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\FileSerDemo\obj\Debug\FileSerDemo.exe
+C:\csh\Day6\GenDemos\FileSerDemo\obj\Debug\FileSerDemo.pdb
+C:\csh\Day6\GenDemos\FileSerDemo\obj\Debug\FileSerDemo.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\FileDemo1\bin\Debug\FileDemo1.exe.config
+C:\csh\Day6\GenDemos\FileDemo1\bin\Debug\FileDemo1.exe
+C:\csh\Day6\GenDemos\FileDemo1\bin\Debug\FileDemo1.pdb
+C:\csh\Day6\GenDemos\FileDemo1\obj\Debug\FileDemo1.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\FileDemo1\obj\Debug\FileDemo1.exe
+C:\csh\Day6\GenDemos\FileDemo1\obj\Debug\FileDemo1.pdb

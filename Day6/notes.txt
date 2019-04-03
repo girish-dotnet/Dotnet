@@ -1,0 +1,205 @@
+using System; 
+using System.Collections; 
+ 
+class MyClass { 
+  public IEnumerator GetEnumerator() { 
+    yield return 'A'; 
+    yield return 'B'; 
+    yield return 'C'; 
+    yield return 'D'; 
+    yield return 'E'; 
+  } 
+} 
+ 
+class MainClass { 
+  public static void Main() { 
+    MyClass mc = new MyClass(); 
+ 
+    foreach(char ch in mc) 
+      Console.Write(ch + " "); 
+ 
+    Console.WriteLine(); 
+  } 
+}
+
+________________________________________________________________
+
+using System;
+using System.Collections.Generic;
+
+public class Employee {
+    public string Name;
+    public string Title;
+    public Employee(string name, string title) {
+        Name = name;
+        Title = title;
+    }
+    public override string ToString() {
+        return string.Format("{0} ({1})", Name, Title);
+    }
+}
+public class Team {
+    private List<Employee> teamMembers = new List<Employee>();
+    public IEnumerator<Employee> GetEnumerator() {
+        foreach (Employee tm in teamMembers) {
+            yield return tm;
+        }
+    }
+    public IEnumerable<Employee> Reverse {
+        get {
+            for (int c = teamMembers.Count - 1; c >= 0; c--) {
+                yield return teamMembers[c];
+            }
+        }
+    }
+    public IEnumerable<Employee> FirstTwo {
+        get {
+            int count = 0;
+            foreach (Employee tm in teamMembers) {
+                if (count >= 2) {
+                    yield break;
+                } else {
+                    count++;
+                    yield return tm;
+                }
+            }
+        }
+    }
+    public void AddMember(Employee member) {
+        teamMembers.Add(member);
+    }
+}
+
+public class MainClass {
+    public static void Main() {
+        Team team = new Team();
+        team.AddMember(new Employee("C", "C"));
+        team.AddMember(new Employee("N", "K"));
+        team.AddMember(new Employee("N", "S"));
+
+        foreach (Employee member in team) {
+            Console.WriteLine("  " + member.ToString());
+        }
+        foreach (Employee member in team.FirstTwo) {
+            Console.WriteLine("  " + member.ToString());
+        }
+        foreach (Employee member in team.Reverse) {
+            Console.WriteLine("  " + member.ToString());
+        }
+    }
+}
+
+
+____________________________________________________________________________
+
+using System; 
+using System.Collections; 
+ 
+class MyClass { 
+  char ch = 'A'; 
+ 
+  public IEnumerator GetEnumerator() { 
+    for(int i=0; i < 26; i++) { 
+      if(i == 10) 
+         yield break; // stop iterator early 
+      yield return (char) (ch + i); 
+    } 
+  } 
+} 
+ 
+class MainClass { 
+  public static void Main() { 
+    MyClass mc = new MyClass(); 
+ 
+    foreach(char ch in mc) 
+      Console.Write(ch + " "); 
+ 
+    Console.WriteLine(); 
+  } 
+}
+
+_____________________________________________________________________________________
+
+Exception Handling : 
+_____________________
+
+It is a mechanism of handling the runtime errors during the execution of the program. There are 2 types of errors known as 
+
+	1) Compile-Time
+
+	2) Runtime 
+
+Compile time erros CLR will takes care. 
+
+Runtime errors occurs during runtime, if we pass invalid values, the type of errors we are getting known as Runtime errors. 
+
+By using Exception handling, we have to overcome runtime errors. 
+
+To handle we have 3 blocks 
+
+1) try : this block contains statements in which there is possibility of getting runtime errors, the statements which are placed in this block are treated as heavy weighted statements as CLR allocates excess memory to them.
+
+2) catch : Once exception raised in try block, then the control will be forwarded to catch block, this block contains alternate statements for exceptions raised in try block. One try block can contains multiple catch blocks. 
+
+3) finally : This block contains statements that needs to be executed mandetorily irrespective of try and catch blocks. This block is not mandetory, but all the statements which are placed in this block are executed as mandetory statements. 
+
+Exception is the top most class from which all kinds of exceptions are derived.
+
+Syntax : 
+________
+
+try {
+....
+....
+....
+}
+catch(Exception e)
+{
+....
+....
+}
+finally {
+....
+....
+....
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+C:\csh\Day6\FileDesrDemo\bin\Debug\FileDesrDemo.exe.config
+C:\csh\Day6\FileDesrDemo\bin\Debug\FileDesrDemo.exe
+C:\csh\Day6\FileDesrDemo\bin\Debug\FileDesrDemo.pdb
+C:\csh\Day6\FileDesrDemo\obj\Debug\FileDesrDemo.csprojAssemblyReference.cache
+C:\csh\Day6\FileDesrDemo\obj\Debug\FileDesrDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day6\FileDesrDemo\obj\Debug\FileDesrDemo.exe
+C:\csh\Day6\FileDesrDemo\obj\Debug\FileDesrDemo.pdb

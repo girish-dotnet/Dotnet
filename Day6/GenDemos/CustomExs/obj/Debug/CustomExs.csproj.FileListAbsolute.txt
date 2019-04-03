@@ -1,0 +1,6 @@
+C:\csh\Day6\GenDemos\CustomExs\bin\Debug\CustomExs.exe.config
+C:\csh\Day6\GenDemos\CustomExs\bin\Debug\CustomExs.exe
+C:\csh\Day6\GenDemos\CustomExs\bin\Debug\CustomExs.pdb
+C:\csh\Day6\GenDemos\CustomExs\obj\Debug\CustomExs.csproj.CoreCompileInputs.cache
+C:\csh\Day6\GenDemos\CustomExs\obj\Debug\CustomExs.exe
+C:\csh\Day6\GenDemos\CustomExs\obj\Debug\CustomExs.pdb
