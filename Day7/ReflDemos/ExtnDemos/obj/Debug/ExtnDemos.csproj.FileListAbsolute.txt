@@ -1,0 +1,7 @@
+C:\csh\Day7\ReflDemos\ExtnDemos\bin\Debug\ExtnDemos.exe.config
+C:\csh\Day7\ReflDemos\ExtnDemos\bin\Debug\ExtnDemos.exe
+C:\csh\Day7\ReflDemos\ExtnDemos\bin\Debug\ExtnDemos.pdb
+C:\csh\Day7\ReflDemos\ExtnDemos\obj\Debug\ExtnDemos.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\ExtnDemos\obj\Debug\ExtnDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\ExtnDemos\obj\Debug\ExtnDemos.exe
+C:\csh\Day7\ReflDemos\ExtnDemos\obj\Debug\ExtnDemos.pdb

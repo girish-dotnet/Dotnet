@@ -1,0 +1,6 @@
+C:\csh\Day8\EventDemo\AttributesDemo\bin\Debug\AttributesDemo.exe.config
+C:\csh\Day8\EventDemo\AttributesDemo\bin\Debug\AttributesDemo.exe
+C:\csh\Day8\EventDemo\AttributesDemo\bin\Debug\AttributesDemo.pdb
+C:\csh\Day8\EventDemo\AttributesDemo\obj\Debug\AttributesDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day8\EventDemo\AttributesDemo\obj\Debug\AttributesDemo.exe
+C:\csh\Day8\EventDemo\AttributesDemo\obj\Debug\AttributesDemo.pdb

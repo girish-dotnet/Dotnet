@@ -1,0 +1,7 @@
+C:\csh\Day7\ReflDemos\bin\Debug\ReflDemos.exe.config
+C:\csh\Day7\ReflDemos\bin\Debug\ReflDemos.exe
+C:\csh\Day7\ReflDemos\bin\Debug\ReflDemos.pdb
+C:\csh\Day7\ReflDemos\obj\Debug\ReflDemos.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\obj\Debug\ReflDemos.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\obj\Debug\ReflDemos.exe
+C:\csh\Day7\ReflDemos\obj\Debug\ReflDemos.pdb

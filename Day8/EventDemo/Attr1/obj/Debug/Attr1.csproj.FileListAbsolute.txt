@@ -1,0 +1,7 @@
+C:\csh\Day8\EventDemo\Attr1\bin\Debug\Attr1.exe.config
+C:\csh\Day8\EventDemo\Attr1\bin\Debug\Attr1.exe
+C:\csh\Day8\EventDemo\Attr1\bin\Debug\Attr1.pdb
+C:\csh\Day8\EventDemo\Attr1\obj\Debug\Attr1.csprojAssemblyReference.cache
+C:\csh\Day8\EventDemo\Attr1\obj\Debug\Attr1.csproj.CoreCompileInputs.cache
+C:\csh\Day8\EventDemo\Attr1\obj\Debug\Attr1.exe
+C:\csh\Day8\EventDemo\Attr1\obj\Debug\Attr1.pdb

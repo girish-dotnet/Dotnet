@@ -1,0 +1,7 @@
+C:\csh\Day7\ReflDemos\ReflectionTests\bin\Debug\ReflectionTests.exe.config
+C:\csh\Day7\ReflDemos\ReflectionTests\bin\Debug\ReflectionTests.exe
+C:\csh\Day7\ReflDemos\ReflectionTests\bin\Debug\ReflectionTests.pdb
+C:\csh\Day7\ReflDemos\ReflectionTests\obj\Debug\ReflectionTests.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\ReflectionTests\obj\Debug\ReflectionTests.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\ReflectionTests\obj\Debug\ReflectionTests.exe
+C:\csh\Day7\ReflDemos\ReflectionTests\obj\Debug\ReflectionTests.pdb

@@ -1,0 +1,151 @@
+C# | Delegates
+A delegate is an object which refers to a method or you can say it is a reference type variable that can hold a reference to the methods. Delegates in C# are similar to the function pointer in C/C++. It provides a way which tells which method is to be called when an event is triggered.
+For example, if you click an Button on a form (Windows Form application), the program would call a specific method. In simple words, it is a type that represents references to methods with a particular parameter list and return type and then calls the method in a program for execution when it is needed.
+
+Important Points About Delegates:
+
+Provides a good way to encapsulate the methods.
+Delegates are the library class in System namespace.
+These are the type-safe pointer of any method.
+Delegates are mainly used in implementing the call-back methods and events.
+Delegates can be chained together as two or more methods can be called on a single event.
+It doesn’t care about the class of the object that it references.
+Delegates can also be used in “anonymous methods” invocation.
+Anonymous Methods(C# 2.0) and Lambda expressions(C# 3.0) are compiled to delegate types in certain contexts. Sometimes, these features together are known as anonymous functions.
+
+
+*****
+
+Delegate in C# is similar to a function pointer in C or C++. It's a new type of object in C#. Delegate is very special type of object as earlier the entire the object we used to defined contained data but delegate just contains the details of a method.
+ 
+Need of delegate
+ 
+Programmers often needs to pass a method as a parameter of other methods. For this purpose we create and use delegates.
+A delegate is a class that encapsulates a method signature. Although it can be used in any context, it often serves as the basis for the event-handling model in C# and .NET.
+ 
+One good way of understanding delegates is by thinking of a delegate as something that gives a name to a method signature.
+
+********
+
+Benefits of delegates
+ 
+In simple words delegates are object oriented and type-safe and very secure as they ensure that the signature of the method being called is correct. Delegates makes event handling simple and easy.
+ 
+Types of delegates
+ 
+There are two types of delegates, singlecast delegates, and multiplecast delegates.
+ 
+Singlecast delegate
+ 
+Singlecast delegate point to single method at a time. In this the delegate is assigned to a single method at a time. They are derived from System.Delegate class.
+ 
+Multicast Delegate
+ 
+When a delegate is wrapped with more than one method that is known as a multicast delegate.
+ 
+In C#, delegates are multicast, which means that they can point to more than one function at a time. They are derived from System.MulticastDelegate class.
+
+___________________________________________________________________________________________________________
+
+
+Events
+ 
+Events and delegate work together. An event is a reference to a delegate i.e. when an event is raised, a delegate is called. In C# terms, events are a special form of delegates. 
+ 
+Events play an important part in user interfaces and programming notifications. Events and delegates work hand-in-hand to provide a communication between code from one class to other class. When something happens in one class or one part of the code and other part of the code needs a notification, events are used. 
+ 
+A C# event is a class member that is activated whenever the event it was designed for occurs. It starts with a class that declares an event. Any class, including the same class that the event is declared in, may register one of its methods for the event. This occurs through a delegate, which specifies the signature of the method that is registered for the event. The event keyword is a delegate modifier. It must always be used in connection with a delegate.
+ 
+The delegate may be one of the pre-defined .NET delegates or one you declare yourself. Whichever is appropriate, you assign the delegate to the event, which effectively registers the method that will be called when the event fires.
+ 
+
+
+using System;  
+namespace delegate_custom  
+{  
+class Program  
+{  
+public delegate void MyDelegate(int a);  
+  
+public class XX  
+{  
+public event MyDelegate MyEvent;  
+  
+public void RaiseEvent()  
+{  
+MyEvent(20);  
+Console.WriteLine("Event Raised");  
+}  
+  
+public void Display(int x)  
+{  
+Console.WriteLine("Display Method {0}", x);  
+}  
+}  
+  
+static void Main(string[] args)  
+{  
+  
+XX obj = new XX();  
+obj.MyEvent += new MyDelegate(obj.Display);  
+  
+obj.RaiseEvent();  
+Console.ReadLine();  
+}  
+}  
+}  
+_____________________________________________________________________________________
+
+
+using System;  
+using System.Collections.Generic;  
+using System.Linq;  
+using System.Text;  
+  
+namespace delegate_custom_multicast  
+{  
+class Program  
+{  
+public delegate void MyDelegate(int a, int b);  
+  
+public class XX  
+{  
+public event MyDelegate MyEvent;  
+  
+public void RaiseEvent(int a, int b)  
+{  
+MyEvent(a, b);  
+Console.WriteLine("Event Raised");  
+}  
+  
+public void Add(int x, int y)  
+{  
+Console.WriteLine("Add Method {0}", x + y);  
+}  
+  
+public void Subtract(int x, int y)  
+{  
+Console.WriteLine("Subtract Method {0}", x - y);  
+}  
+}  
+  
+static void Main(string[] args)  
+{  
+  
+XX obj = new XX();  
+obj.MyEvent += new MyDelegate(obj.Add);  
+obj.MyEvent += new MyDelegate(obj.Subtract);  
+obj.RaiseEvent(20, 10);  
+Console.ReadLine();  
+}  
+}  
+}  
+
+_______________________________________________________________________________________________________
+
+
+
+
+
+
+

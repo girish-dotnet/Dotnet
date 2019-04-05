@@ -1,0 +1,10 @@
+C:\csh\Day7\ReflDemos\ClientCustomer\bin\Debug\ClientCustomer.exe.config
+C:\csh\Day7\ReflDemos\ClientCustomer\bin\Debug\ClientCustomer.exe
+C:\csh\Day7\ReflDemos\ClientCustomer\bin\Debug\ClientCustomer.pdb
+C:\csh\Day7\ReflDemos\ClientCustomer\bin\Debug\clsCustomerDemo.dll
+C:\csh\Day7\ReflDemos\ClientCustomer\bin\Debug\clsCustomerDemo.pdb
+C:\csh\Day7\ReflDemos\ClientCustomer\obj\Debug\ClientCustomer.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\ClientCustomer\obj\Debug\ClientCustomer.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\ClientCustomer\obj\Debug\ClientCustomer.csproj.CopyComplete
+C:\csh\Day7\ReflDemos\ClientCustomer\obj\Debug\ClientCustomer.exe
+C:\csh\Day7\ReflDemos\ClientCustomer\obj\Debug\ClientCustomer.pdb

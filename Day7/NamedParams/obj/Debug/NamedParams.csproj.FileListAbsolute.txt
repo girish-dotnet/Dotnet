@@ -1,0 +1,7 @@
+C:\csh\Day7\NamedParams\bin\Debug\NamedParams.exe.config
+C:\csh\Day7\NamedParams\bin\Debug\NamedParams.exe
+C:\csh\Day7\NamedParams\bin\Debug\NamedParams.pdb
+C:\csh\Day7\NamedParams\obj\Debug\NamedParams.csproj.CoreCompileInputs.cache
+C:\csh\Day7\NamedParams\obj\Debug\NamedParams.exe
+C:\csh\Day7\NamedParams\obj\Debug\NamedParams.pdb
+C:\csh\Day7\NamedParams\obj\Debug\NamedParams.csprojAssemblyReference.cache

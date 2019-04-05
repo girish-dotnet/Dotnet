@@ -20,6 +20,319 @@ _________________________
 
 Destructors : Used to deallocated memory, which allocated by constructors and prefixed with (~) symbol. 
 
+static variables : These are the variables that which retains values irrespective of type of objects. 
+
+class Demo
+{
+   int x;
+   public static void Show() 
+   {
+      x=12;
+      Console.WriteLine("X value is " +x);
+   }
+   static void Main(string[] args)
+   {
+      Show();
+   }
+}
+
+Inheritance : The concept of deriving a new class from already existing class known as inheritnace, the class which is derived known as derived class, the class from which it is derived known as base class. Through inheritance, we can reduce the size of the program. 
+
+class C1 
+{
+...
+...
+}
+class C2 : C1 
+{
+...
+...
+}
+
+Once you create an object to C2 class, we can access all public/protected and friendly members of C1 class. 
+
+
+Quiz : 
+______
+
+class C1 
+{
+   public int Sum(int x,int y)
+   {   
+      return x+y;
+   }
+}
+
+class C2 : C1
+{
+  public void Sum(int x,int y)
+  {
+     int c=x+y;
+     Console.WriteLine("Sum is  "+c);
+  }
+}
+
+Abstract Class : A class that which can be created, but not implemented and instantiated known as abstract class. Abstract class Contains abstract and non-abstract methods, abstract methods needs to be overrided mandetorily by the derived class. You cannot create an object to abstract class. 
+
+syntax :
+________
+
+abstract class class_name
+{
+   abstract method1();
+   abstract method2();
+}
+
+abstract class Training 
+{
+   abstract void Name();
+   abstract void Email();
+}
+
+sealed class : If a class prefixed with sealed keyword, then it will not be derived further. To implement security of not sharing top class management data to the derived classes in restritected situations, then we need the help of sealed class. 
+
+
+
+interfaces : C# does not suppor the concept of multiple inheritance, to achieve this we need the help of interfaces. An interface contains method declaration and the implementation can be done in the corresponding class, you can add more than one interface to the particular class. 
+
+Difference between interface and abstract class :
+_________________________________________________
+
+	1) an abstract class contains both abstract and non-abstract methods, where interface contains only abstract methods. 
+
+	2) interface methods are public and abstract by default. 
+
+	3) multiple inheritance can be achieved by using interfaces. 
+
+	4) An interface can be called from anywhere to anywhere. 
+
+syntax : 
+________
+
+interface IOne
+{
+   void metho1();
+   void method2();
+}
+
+
+class class_name : IOne 
+{
+....
+....
+}
+
+Properties : 
+
+String name;
+
+Properties provides an opportunity to protect a field in a class, by using read and write. 
+
+If you want to control the internal behaviour of the given entity, and you want to represent any variable as a field, then we need the help of properties. 
+
+This can be accomplished by using get and set. 
+
+example : 
+
+take 
+
+string name;
+
+To create properites 
+
+public string Name 
+{
+   get 
+   {
+      return name;
+   }
+   set 
+   {
+      name=value;
+   }
+}
+
+If a property is capable of having both getters and setters we call it as auto-implemented property. Then no variables are required, 
+
+syntax : 
+
+int empno;
+
+To create an auto-implemented propery. 
+
+public int Empno {get;set;} 
+
+string s1="Hello";
+string s2="Hello";
+
+
+Console.WriteLine(s1==s2);
+Console.WriteLine(s1.Equals(s2));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

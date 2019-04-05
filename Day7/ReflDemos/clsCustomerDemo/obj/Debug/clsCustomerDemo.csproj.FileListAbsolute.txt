@@ -1,0 +1,6 @@
+C:\csh\Day7\ReflDemos\clsCustomerDemo\bin\Debug\clsCustomerDemo.dll
+C:\csh\Day7\ReflDemos\clsCustomerDemo\bin\Debug\clsCustomerDemo.pdb
+C:\csh\Day7\ReflDemos\clsCustomerDemo\obj\Debug\clsCustomerDemo.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\clsCustomerDemo\obj\Debug\clsCustomerDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\clsCustomerDemo\obj\Debug\clsCustomerDemo.dll
+C:\csh\Day7\ReflDemos\clsCustomerDemo\obj\Debug\clsCustomerDemo.pdb

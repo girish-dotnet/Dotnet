@@ -1,0 +1,7 @@
+C:\csh\Day8\EventDemo\bin\Debug\EventDemo.exe.config
+C:\csh\Day8\EventDemo\bin\Debug\EventDemo.exe
+C:\csh\Day8\EventDemo\bin\Debug\EventDemo.pdb
+C:\csh\Day8\EventDemo\obj\Debug\EventDemo.csprojAssemblyReference.cache
+C:\csh\Day8\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\csh\Day8\EventDemo\obj\Debug\EventDemo.exe
+C:\csh\Day8\EventDemo\obj\Debug\EventDemo.pdb

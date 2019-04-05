@@ -1,0 +1,7 @@
+C:\csh\Day8\DelegateLogin\bin\Debug\DelegateLogin.exe.config
+C:\csh\Day8\DelegateLogin\bin\Debug\DelegateLogin.exe
+C:\csh\Day8\DelegateLogin\bin\Debug\DelegateLogin.pdb
+C:\csh\Day8\DelegateLogin\obj\Debug\DelegateLogin.csprojAssemblyReference.cache
+C:\csh\Day8\DelegateLogin\obj\Debug\DelegateLogin.csproj.CoreCompileInputs.cache
+C:\csh\Day8\DelegateLogin\obj\Debug\DelegateLogin.exe
+C:\csh\Day8\DelegateLogin\obj\Debug\DelegateLogin.pdb

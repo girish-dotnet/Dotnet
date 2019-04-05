@@ -1,0 +1,6 @@
+C:\csh\Day7\ReflDemos\clsStudent\bin\Debug\clsStudent.dll
+C:\csh\Day7\ReflDemos\clsStudent\bin\Debug\clsStudent.pdb
+C:\csh\Day7\ReflDemos\clsStudent\obj\Debug\clsStudent.csprojAssemblyReference.cache
+C:\csh\Day7\ReflDemos\clsStudent\obj\Debug\clsStudent.csproj.CoreCompileInputs.cache
+C:\csh\Day7\ReflDemos\clsStudent\obj\Debug\clsStudent.dll
+C:\csh\Day7\ReflDemos\clsStudent\obj\Debug\clsStudent.pdb
