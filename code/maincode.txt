@@ -37,4 +37,20 @@
             Console.ReadKey();
         }
 }
+
+Agent 
+  
+   AgentId -> int
+   AgentName -> string
+   DateOfBirth -> DateTime
+   Premium -> double
+   PayMode -> int,
+   
+Add CRUD layered Architecture
+
+Validations : AgentID not negative
+AgentName -> Not empty and max 15 chars 
+DateOfBirth -> Not born period 1995 and 2010 
+Preimum -> Greater than 1000 
+PayMode -> 1 or 2 or 3
     
