@@ -1,0 +1,5 @@
+C:\csh\Day8\Employ_Presentation\Emp_Exceptions\bin\Debug\Emp_Exceptions.dll
+C:\csh\Day8\Employ_Presentation\Emp_Exceptions\bin\Debug\Emp_Exceptions.pdb
+C:\csh\Day8\Employ_Presentation\Emp_Exceptions\obj\Debug\Emp_Exceptions.csproj.CoreCompileInputs.cache
+C:\csh\Day8\Employ_Presentation\Emp_Exceptions\obj\Debug\Emp_Exceptions.dll
+C:\csh\Day8\Employ_Presentation\Emp_Exceptions\obj\Debug\Emp_Exceptions.pdb
