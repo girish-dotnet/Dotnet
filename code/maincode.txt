@@ -1,0 +1,39 @@
+ static void Main(string[] args)
+        {
+            byte choice;
+            do
+            {
+                PrintMenu();
+                Console.WriteLine("Enter Your Choice:");
+                bool chkChoice;
+
+                chkChoice = byte.TryParse(Console.ReadLine(), out choice);
+                if (!chkChoice) { Console.WriteLine("Invalid Input "); }
+                switch (choice)
+                {
+                    case 1:
+                        AddEmploy();
+                        break;
+                    case 2:
+                        DisplayEmploy();
+                        break;
+                    case 3:
+                        SearchEmploy();
+                        break;
+                    case 4:
+                        DeleteEmploy();
+                        break;
+                    case 5:
+                        UpdateEmploy();
+                        break;
+                    case 6:
+                        break;
+                    default:
+                        Console.WriteLine("Invalid Choice");
+                        break;
+                }
+            } while (choice != 6);
+
+            Console.ReadKey();
+        }
+    
