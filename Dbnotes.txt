@@ -1,0 +1,18 @@
+_________________________________________________________
+
+A database is the set of interrelated files, stored with min. redundancy to serve many users work concurrently. 
+
+Managing Databases : SQL Server contains the following system databases. 
+
+1) master 2) model 3) tempdb 4) msdb 
+
+1) Master : Records all the server-specific config. information, including authorized users, databases, system configuration settings, and remote servers.  In additon, it records the instance-wide metadata, such as logon accounts, endpoints and system config. settings. 
+
+The master database also stores the initialization of the sql server. Therefore if the master database is unavaialble, the sql server database engine will not be started. 
+
+2) tempdb : It is a temporary database that holds all temporary tables and stored procedures. It is automatically used by the server to resolve large or nested queries or to sort data before displaying the results to the user. 
+
+3) model : This database acts as a template or a prototype for a new databases. whenever a database is created, the contents of the model databae are copied to the new database. In this database, you can set the detault values for the various args to be specified by using DDL(Data Definition Language)  statements to create database objects. 
+
+4) msdb : This database supports the sql server agent, The SQL Server agent is a tool that schedules periodic activities of the SQL server, such as backup and database mailing. 
+
