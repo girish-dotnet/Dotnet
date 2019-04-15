@@ -25,3 +25,6 @@ INSERTED.Rate AS SourceRate;
 
 SELECT @@ROWCOUNT;
 GO
+
+select * from Products 
+GO
