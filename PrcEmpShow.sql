@@ -8,3 +8,26 @@ BEGIN
 	SELECT * FROM Emp 
 END
 GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcAgentShow') 
+DROP PROC prcAgentShow 
+GO
+
+CREATE PROC prcAgentShow 
+AS
+BEGIN
+	SELECT * FROM Agent  
+END
+GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcCustomerShow') 
+DROP PROC prcCustomerShow 
+GO
+
+CREATE PROC prcCustomerShow 
+AS
+BEGIN
+	SELECT * FROM Customer  
+END
+GO
+
