@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfDataBindingApplication.SimpleObservableCollection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="5,5,5,5">
+            <TextBlock x:Name="lblName" Text="Name"></TextBlock>
+            <TextBox x:Name="txtName"></TextBox>
+            <TextBlock x:Name="lblAddress" Text="Address"></TextBlock>
+            <TextBox x:Name="txtAddress"></TextBox>
+            <Button Grid.Column="0" Width="100" Height="20" Margin="5,5,5,5" x:Name="btnNames" Click="btnAddNames_Click" Content="Add"></Button>
+        </StackPanel>
+        <ListView x:Name="lstNames" Margin="5,10,5,0" Grid.Column="1" Grid.Row="0">
+            <ListView.View>
+                <GridView x:Name="grdNames">
+                    <GridViewColumn Header="Name"  DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Address"  DisplayMemberBinding="{Binding Address}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

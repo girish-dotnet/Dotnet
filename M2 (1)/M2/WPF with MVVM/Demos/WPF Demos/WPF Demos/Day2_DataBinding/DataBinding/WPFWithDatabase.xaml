@@ -1,0 +1,22 @@
+﻿<Window x:Class="DataBinding.WPFWithDatabase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPFWithDatabase" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btnGetCategories" Click="btnGetCategories_Click"  Content="Get Categories" MaxWidth="125" MaxHeight="70" HorizontalAlignment="Center" Margin="5"/>
+            <DataGrid x:Name="dgCategories" 
+                      HorizontalAlignment="Left" VerticalAlignment="Top"
+                      Margin="5" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Empno}"
+                                        Header="Empno"/>
+                    <DataGridTextColumn Binding="{Binding nam}"
+                                        Header="Employ Name"/>
+                    <DataGridTextColumn Binding="{Binding basic}"
+                                        Header="Salary"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

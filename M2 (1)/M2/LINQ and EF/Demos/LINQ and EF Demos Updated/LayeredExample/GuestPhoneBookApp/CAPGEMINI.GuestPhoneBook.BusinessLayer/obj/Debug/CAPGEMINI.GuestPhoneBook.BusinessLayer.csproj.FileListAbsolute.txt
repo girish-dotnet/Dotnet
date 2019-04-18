@@ -1,0 +1,13 @@
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.BusinessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.BusinessLayer.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.DataAccessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.DataAccessLayer.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.Entities.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\obj\Debug\CAPGEMINI.GuestPhoneBook.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\obj\Debug\CAPGEMINI.GuestPhoneBook.BusinessLayer.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.BusinessLayer\obj\Debug\CAPGEMINI.GuestPhoneBook.BusinessLayer.pdb

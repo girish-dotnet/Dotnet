@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPGEMINI.GuestPhoneBook.Entities", "CAPGEMINI.GuestPhoneBook.Entities\CAPGEMINI.GuestPhoneBook.Entities.csproj", "{43CC2C03-940A-4421-8C8E-6F050D595F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPGEMINI.GuestPhoneBook.Exceptions", "CAPGEMINI.GuestPhoneBook.Exceptions\CAPGEMINI.GuestPhoneBook.Exceptions.csproj", "{D3E6CAE0-389B-40D2-9181-C175C005F4B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPGEMINI.GuestPhoneBook.BusinessLayer", "CAPGEMINI.GuestPhoneBook.BusinessLayer\CAPGEMINI.GuestPhoneBook.BusinessLayer.csproj", "{F011579E-9FA9-4585-B653-3A99B1784A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPGEMINI.GuestPhoneBook.PresentationLayer", "CAPGEMINI.GuestPhoneBook.PresentationLayer\CAPGEMINI.GuestPhoneBook.PresentationLayer.csproj", "{945B2312-E257-47EE-AFCC-83C9323E9A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPGEMINI.GuestPhoneBook.DataAccessLayer", "CAPGEMINI.GuestPhoneBook.DataAccessLayer\CAPGEMINI.GuestPhoneBook.DataAccessLayer.csproj", "{6B920E78-9430-4E6B-BCA0-A5E5F384B74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CC2C03-940A-4421-8C8E-6F050D595F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CC2C03-940A-4421-8C8E-6F050D595F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CC2C03-940A-4421-8C8E-6F050D595F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CC2C03-940A-4421-8C8E-6F050D595F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E6CAE0-389B-40D2-9181-C175C005F4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E6CAE0-389B-40D2-9181-C175C005F4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E6CAE0-389B-40D2-9181-C175C005F4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E6CAE0-389B-40D2-9181-C175C005F4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F011579E-9FA9-4585-B653-3A99B1784A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F011579E-9FA9-4585-B653-3A99B1784A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F011579E-9FA9-4585-B653-3A99B1784A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F011579E-9FA9-4585-B653-3A99B1784A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945B2312-E257-47EE-AFCC-83C9323E9A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945B2312-E257-47EE-AFCC-83C9323E9A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945B2312-E257-47EE-AFCC-83C9323E9A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945B2312-E257-47EE-AFCC-83C9323E9A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B920E78-9430-4E6B-BCA0-A5E5F384B74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B920E78-9430-4E6B-BCA0-A5E5F384B74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B920E78-9430-4E6B-BCA0-A5E5F384B74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B920E78-9430-4E6B-BCA0-A5E5F384B74A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

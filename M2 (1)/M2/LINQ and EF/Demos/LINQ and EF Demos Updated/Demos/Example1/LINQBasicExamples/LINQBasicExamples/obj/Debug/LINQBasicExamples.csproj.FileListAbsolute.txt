@@ -1,0 +1,6 @@
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\bin\Debug\LINQBasicExamples.exe.config
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\bin\Debug\LINQBasicExamples.exe
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\bin\Debug\LINQBasicExamples.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\obj\Debug\LINQBasicExamples.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\obj\Debug\LINQBasicExamples.exe
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example1\LINQBasicExamples\LINQBasicExamples\obj\Debug\LINQBasicExamples.pdb

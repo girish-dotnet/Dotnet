@@ -1,0 +1,13 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\LINQtoEFExample.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\LINQtoEFExample.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\LINQtoEFExample.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.Form1.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.Properties.Resources.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQtoEFExample\LINQtoEFExample\obj\Debug\LINQtoEFExample.pdb

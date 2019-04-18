@@ -1,0 +1,13 @@
+﻿<Window x:Class="Day2_BrushesAndTransforms.SkewTransform"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SkewTransform" Height="300" Width="300">
+    <Grid>
+        <Button MaxWidth="125" MaxHeight="30">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-40" AngleY="-30"/>        
+            </Button.RenderTransform>
+            OK
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="Day2_BrushesAndTransforms.TransformGroup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TransformGroup" Height="300" Width="300">
+    <Grid>
+        <Button MaxWidth="70" MaxHeight="30">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="45"/>
+                    <ScaleTransform ScaleX="2" ScaleY="2"/>
+                    <SkewTransform AngleX="2" AngleY="1"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            OK
+        </Button>
+    </Grid>
+</Window>

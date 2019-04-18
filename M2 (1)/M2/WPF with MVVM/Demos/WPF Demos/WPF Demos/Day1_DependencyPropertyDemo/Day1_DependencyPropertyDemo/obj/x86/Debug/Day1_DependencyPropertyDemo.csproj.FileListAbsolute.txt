@@ -1,0 +1,42 @@
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.lref
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.pdb
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.g.resources
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\WPF\Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.pdb
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.pdb
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.pdb
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.lref
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.g.resources
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Window1.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Window1.baml
+D:\Nachiket\Study Materials\WPF\Demos\Day2_DataBinding\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\bin\Debug\Day1_DependencyPropertyDemo.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo_MarkupCompile.lref
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.g.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_DependencyPropertyDemo\Day1_DependencyPropertyDemo\obj\x86\Debug\Day1_DependencyPropertyDemo.pdb

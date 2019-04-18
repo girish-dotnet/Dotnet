@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="TrainingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Staff_Master">
+          <Key>
+            <PropertyRef Name="Staff_Code" />
+          </Key>
+          <Property Name="Staff_Code" Type="numeric" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Staff_Name" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="Des_Code" Type="numeric" Precision="3" Scale="0" />
+          <Property Name="Dept_Code" Type="numeric" Precision="2" Scale="0" />
+          <Property Name="Staff_dob" Type="datetime" />
+          <Property Name="Hiredate" Type="datetime" />
+          <Property Name="Mgr_code" Type="numeric" Precision="8" Scale="0" />
+          <Property Name="Salary" Type="numeric" Precision="10" Scale="2" />
+          <Property Name="Address" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityContainer Name="TrainingModelStoreContainer">
+          <EntitySet Name="Staff_Master" EntityType="Self.Staff_Master" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TrainingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Staff_Master">
+          <Key>
+            <PropertyRef Name="Staff_Code" />
+          </Key>
+          <Property Name="Staff_Code" Type="Decimal" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Staff_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Des_Code" Type="Decimal" Precision="3" Scale="0" />
+          <Property Name="Dept_Code" Type="Decimal" Precision="2" Scale="0" />
+          <Property Name="Staff_dob" Type="DateTime" Precision="3" />
+          <Property Name="Hiredate" Type="DateTime" Precision="3" />
+          <Property Name="Mgr_code" Type="Decimal" Precision="8" Scale="0" />
+          <Property Name="Salary" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Address" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="TrainingEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Staff_Master" EntityType="Self.Staff_Master" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+          <EntitySetMapping Name="Staff_Master">
+            <EntityTypeMapping TypeName="TrainingModel.Staff_Master">
+              <MappingFragment StoreEntitySet="Staff_Master">
+                <ScalarProperty Name="Staff_Code" ColumnName="Staff_Code" />
+                <ScalarProperty Name="Staff_Name" ColumnName="Staff_Name" />
+                <ScalarProperty Name="Des_Code" ColumnName="Des_Code" />
+                <ScalarProperty Name="Dept_Code" ColumnName="Dept_Code" />
+                <ScalarProperty Name="Staff_dob" ColumnName="Staff_dob" />
+                <ScalarProperty Name="Hiredate" ColumnName="Hiredate" />
+                <ScalarProperty Name="Mgr_code" ColumnName="Mgr_code" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

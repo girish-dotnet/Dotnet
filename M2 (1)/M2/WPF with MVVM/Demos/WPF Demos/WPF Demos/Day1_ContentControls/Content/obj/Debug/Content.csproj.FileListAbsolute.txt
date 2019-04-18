@@ -1,0 +1,51 @@
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\bin\Debug\Content.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\bin\Debug\Content.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ResolveAssemblyReference.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ButtonWithShape.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ExpandableContent.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\GroupBoxTest.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Menu.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\SimpleBorder.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\TabTest.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ButtonWithShape.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ExpandableContent.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\GroupBoxTest.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Menu.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\SimpleBorder.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\TabTest.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\App.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content_MarkupCompile.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content.g.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content.Properties.Resources.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content.csproj.GenerateResource.Cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter05\Content\obj\Debug\Content.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\bin\Debug\Content.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\bin\Debug\Content.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ButtonsWithContent.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ButtonWithShape.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ExpandableContent.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\GroupBoxTest.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Menu.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ScrollableTextBoxColumn.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\SimpleBorder.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\TabTest.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ButtonsWithContent.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ButtonWithShape.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ExpandableContent.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\GroupBoxTest.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Menu.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\ScrollableTextBoxColumn.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\SimpleBorder.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\TabTest.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ContentControls\Content\obj\Debug\Content.csproj.GenerateResource.Cache

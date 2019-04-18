@@ -1,0 +1,23 @@
+﻿<Window x:Class="LayoutPanels.Calc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutPanels"
+        mc:Ignorable="d"
+        Title="Calc" Height="450" Width="800">
+
+    <Grid>
+
+        <Label Content="First No" HorizontalAlignment="Left" Margin="50.077,40.596,0,0" VerticalAlignment="Top" Width="151.948" FontSize="22"/>
+        <TextBox Name="firstNo" HorizontalAlignment="Left" Height="39" Margin="252.867,40.596,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Second No" HorizontalAlignment="Left" Margin="50.077,121.712,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox Name="secondNo" HorizontalAlignment="Left" Height="39" Margin="252.867,121.712,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Result" HorizontalAlignment="Left" Margin="50.077,189.309,0,0" VerticalAlignment="Top" Height="35.657" FontSize="22" Width="117"/>
+        <TextBox Name="result" HorizontalAlignment="Left" Height="35.657" Margin="252.867,189.309,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="_Sum" HorizontalAlignment="Left" Margin="50.077,266.562,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="S_ub" HorizontalAlignment="Left" Margin="202.025,266.562,0,0" VerticalAlignment="Top" Width="75" Height="20"/>
+        <Button Content="_Mult" HorizontalAlignment="Left" Margin="316.601,266.562,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfDataBindingApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="txtRollNo" MinWidth="75" MaxWidth="120"/>
+            <Button x:Name="btnStudentsDetails" Content="Get Students Details" Click="btnStudentsDetails_Click" MaxWidth="125" MaxHeight="70" HorizontalAlignment="Center" Margin="5"/>
+            <DataGrid HorizontalAlignment="Center" VerticalAlignment="Top" x:Name="grdStudents" AutoGenerateColumns="False" Margin="5">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding RollNo}" Header="Roll No"/>
+                    <DataGridTextColumn Binding="{Binding FirstName}" Header="First Name"/>
+                    <DataGridTextColumn Binding="{Binding LastName}" Header="Last Name"/>
+                    <DataGridTextColumn Binding="{Binding ContactNo}" Header="Contact No"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

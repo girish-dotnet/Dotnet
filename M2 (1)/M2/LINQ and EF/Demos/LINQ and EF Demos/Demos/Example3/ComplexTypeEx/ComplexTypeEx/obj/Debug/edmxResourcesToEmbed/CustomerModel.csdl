@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="CustomerModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="CustomerModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="CustomerModel.Customer" />
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="CustomerModel.Name" Nullable="false" />
+    <Property Name="CustomerContact" Type="CustomerModel.Contact" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <ComplexType Name="Name">
+    <Property Type="String" Name="FirstName" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="Contact">
+    <Property Type="Int64" Name="MobileNo" Nullable="false" />
+    <Property Type="String" Name="Email" Nullable="false" />
+  </ComplexType>
+</Schema>

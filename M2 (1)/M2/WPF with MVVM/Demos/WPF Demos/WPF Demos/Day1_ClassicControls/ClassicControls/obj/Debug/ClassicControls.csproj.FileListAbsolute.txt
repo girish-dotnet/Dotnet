@@ -1,0 +1,80 @@
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\bin\Debug\ClassicControls.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\bin\Debug\ClassicControls.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\CheckBoxList.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ComboBoxTest.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ImageList.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\PopupTest.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\RadioButtonGroups.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\SliderTest.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\Tooltips.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\Menu.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\CheckBoxList.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ImageList.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\PopupTest.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\SliderTest.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\Tooltips.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\Menu.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\App.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.g.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\bin\Debug\ClassicControls.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\bin\Debug\ClassicControls.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxList.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboBoxTest.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ImageList.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\RadioButtonGroups.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\SliderTest.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Tooltips.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Menu.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxList.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ImageList.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\SliderTest.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Tooltips.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Menu.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\bin\Debug\ClassicControls.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\bin\Debug\ClassicControls.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxList.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboBoxTest.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ImageList.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\RadioButtonGroups.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\SliderTest.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Tooltips.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Menu.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxList.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ImageList.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\SliderTest.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Tooltips.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\Menu.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\App.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.g.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboTest.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.lref
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\ComboTest.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxDemo.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_ClassicControls\ClassicControls\obj\Debug\CheckBoxDemo.baml

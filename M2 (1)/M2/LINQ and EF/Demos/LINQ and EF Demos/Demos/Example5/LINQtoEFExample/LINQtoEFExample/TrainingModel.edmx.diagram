@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8b2e6a22cc754e908e6dea46b858c4e2" Name="Diagram1">
+        <EntityTypeShape EntityType="TrainingModel.Book_Master" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Department_master" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Desig_master" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Staff_Master" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Student_master" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.sysdiagram" Width="1.5" PointX="5.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Book_Transaction" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Student_Marks" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <AssociationConnector Association="TrainingModel.FK__Book_Tran__Book___1FCDBCEB" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Staff_Mas__Dept___1BFD2C07" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Student_m__Dept___164452B1" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Staff_Mas__Des_C__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Book_Tran__Staff__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Book_Tran__Stud___20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="TrainingModel.FK__Student_M__Stud___182C9B23" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

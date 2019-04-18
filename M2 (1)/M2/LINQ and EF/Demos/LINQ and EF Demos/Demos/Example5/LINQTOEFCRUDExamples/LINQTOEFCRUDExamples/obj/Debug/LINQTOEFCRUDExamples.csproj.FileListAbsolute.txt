@@ -1,0 +1,15 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\LINQTOEFCRUDExamples.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EmployeeDatabase.mdf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EmployeeDatabase_log.ldf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\LINQTOEFCRUDExamples.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\LINQTOEFCRUDExamples.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.Form1.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.Properties.Resources.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example5\LINQTOEFCRUDExamples\LINQTOEFCRUDExamples\obj\Debug\LINQTOEFCRUDExamples.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CustomerModelStoreContainer" CdmEntityContainer="CustomerModelContainer">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="IsTypeOf(CustomerModel.Customer)">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ComplexProperty Name="CustomerName" TypeName="CustomerModel.Name">
+            <ScalarProperty Name="FirstName" ColumnName="CustomerName_FirstName" />
+            <ScalarProperty Name="LastName" ColumnName="CustomerName_LastName" />
+          </ComplexProperty>
+          <ComplexProperty Name="CustomerContact" TypeName="CustomerModel.Contact">
+            <ScalarProperty Name="MobileNo" ColumnName="CustomerContact_MobileNo" />
+            <ScalarProperty Name="Email" ColumnName="CustomerContact_Email" />
+          </ComplexProperty>
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

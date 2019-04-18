@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Book_Master">
+      <EntityTypeMapping TypeName="TrainingModel.Book_Master">
+        <MappingFragment StoreEntitySet="Book_Master">
+          <ScalarProperty Name="Book_code" ColumnName="Book_code" />
+          <ScalarProperty Name="Book_name" ColumnName="Book_name" />
+          <ScalarProperty Name="pub_year" ColumnName="pub_year" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="book_category" ColumnName="book_category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Department_master">
+      <EntityTypeMapping TypeName="TrainingModel.Department_master">
+        <MappingFragment StoreEntitySet="Department_master">
+          <ScalarProperty Name="Dept_code" ColumnName="Dept_code" />
+          <ScalarProperty Name="Dept_Name" ColumnName="Dept_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Desig_master">
+      <EntityTypeMapping TypeName="TrainingModel.Desig_master">
+        <MappingFragment StoreEntitySet="Desig_master">
+          <ScalarProperty Name="Design_Code" ColumnName="Design_Code" />
+          <ScalarProperty Name="Design_Name" ColumnName="Design_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Staff_Master">
+      <EntityTypeMapping TypeName="TrainingModel.Staff_Master">
+        <MappingFragment StoreEntitySet="Staff_Master">
+          <ScalarProperty Name="Staff_Code" ColumnName="Staff_Code" />
+          <ScalarProperty Name="Staff_Name" ColumnName="Staff_Name" />
+          <ScalarProperty Name="Des_Code" ColumnName="Des_Code" />
+          <ScalarProperty Name="Dept_Code" ColumnName="Dept_Code" />
+          <ScalarProperty Name="Staff_dob" ColumnName="Staff_dob" />
+          <ScalarProperty Name="Hiredate" ColumnName="Hiredate" />
+          <ScalarProperty Name="Mgr_code" ColumnName="Mgr_code" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Student_master">
+      <EntityTypeMapping TypeName="TrainingModel.Student_master">
+        <MappingFragment StoreEntitySet="Student_master">
+          <ScalarProperty Name="Stud_Code" ColumnName="Stud_Code" />
+          <ScalarProperty Name="Stud_Name" ColumnName="Stud_Name" />
+          <ScalarProperty Name="Dept_Code" ColumnName="Dept_Code" />
+          <ScalarProperty Name="Stud_Dob" ColumnName="Stud_Dob" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="TrainingModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Book_Transaction">
+      <EntityTypeMapping TypeName="TrainingModel.Book_Transaction">
+        <MappingFragment StoreEntitySet="Book_Transaction">
+          <ScalarProperty Name="Book_code" ColumnName="Book_code" />
+          <ScalarProperty Name="Stud_code" ColumnName="Stud_code" />
+          <ScalarProperty Name="Staff_code" ColumnName="Staff_code" />
+          <ScalarProperty Name="Issue_date" ColumnName="Issue_date" />
+          <ScalarProperty Name="Exp_Return_date" ColumnName="Exp_Return_date" />
+          <ScalarProperty Name="Actual_Return_date" ColumnName="Actual_Return_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Student_Marks">
+      <EntityTypeMapping TypeName="TrainingModel.Student_Marks">
+        <MappingFragment StoreEntitySet="Student_Marks">
+          <ScalarProperty Name="Stud_Code" ColumnName="Stud_Code" />
+          <ScalarProperty Name="Stud_Year" ColumnName="Stud_Year" />
+          <ScalarProperty Name="Subject1" ColumnName="Subject1" />
+          <ScalarProperty Name="Subject2" ColumnName="Subject2" />
+          <ScalarProperty Name="Subject3" ColumnName="Subject3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

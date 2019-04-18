@@ -1,0 +1,60 @@
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\bin\Debug\Styles.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\bin\Debug\Styles.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\ResolveAssemblyReference.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\AutomaticStyles.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Menu.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\ReuseFontWithStyles.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\SimpleTriggers.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\StyleInheritance.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\AutomaticStyles.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Menu.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\ReuseFontWithStyles.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\SimpleTriggers.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\StyleInheritance.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\App.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles_MarkupCompile.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles.g.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles.Properties.Resources.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles.csproj.GenerateResource.Cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter12\Styles\obj\Debug\Styles.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Menu.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ReuseFontWithStyles.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\SimpleTriggers.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\StyleInheritance.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Menu.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ReuseFontWithStyles.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\SimpleTriggers.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\StyleInheritance.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\bin\Debug\Styles.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\bin\Debug\Styles.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\AutomaticStyles.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\AutomaticStyles.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ShapesDemo.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ShapesDemo.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\bin\Debug\Styles.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\bin\Debug\Styles.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\AutomaticStyles.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Menu.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ReuseFontWithStyles.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\SimpleTriggers.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\StyleInheritance.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\AutomaticStyles.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Menu.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\ReuseFontWithStyles.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\SimpleTriggers.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\StyleInheritance.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.g.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Styles\Styles\obj\Debug\Styles.csproj.GenerateResource.Cache

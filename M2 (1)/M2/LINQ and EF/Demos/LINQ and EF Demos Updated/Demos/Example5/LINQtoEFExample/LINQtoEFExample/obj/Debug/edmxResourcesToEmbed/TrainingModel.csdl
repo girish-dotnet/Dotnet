@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book_Master">
+    <Key>
+      <PropertyRef Name="Book_code" />
+    </Key>
+    <Property Name="Book_code" Type="Decimal" Precision="10" Scale="0" Nullable="false" />
+    <Property Name="Book_name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="pub_year" Type="Int32" />
+    <Property Name="Author" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="book_category" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Book_Transaction" Relationship="Self.FK__Book_Tran__Book___1FCDBCEB" FromRole="Book_Master" ToRole="Book_Transaction" />
+  </EntityType>
+  <EntityType Name="Department_master">
+    <Key>
+      <PropertyRef Name="Dept_code" />
+    </Key>
+    <Property Name="Dept_code" Type="Decimal" Precision="2" Scale="0" Nullable="false" />
+    <Property Name="Dept_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Staff_Master" Relationship="Self.FK__Staff_Mas__Dept___1BFD2C07" FromRole="Department_master" ToRole="Staff_Master" />
+    <NavigationProperty Name="Student_master" Relationship="Self.FK__Student_m__Dept___164452B1" FromRole="Department_master" ToRole="Student_master" />
+  </EntityType>
+  <EntityType Name="Desig_master">
+    <Key>
+      <PropertyRef Name="Design_Code" />
+    </Key>
+    <Property Name="Design_Code" Type="Decimal" Precision="3" Scale="0" Nullable="false" />
+    <Property Name="Design_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Staff_Master" Relationship="Self.FK__Staff_Mas__Des_C__1B0907CE" FromRole="Desig_master" ToRole="Staff_Master" />
+  </EntityType>
+  <EntityType Name="Staff_Master">
+    <Key>
+      <PropertyRef Name="Staff_Code" />
+    </Key>
+    <Property Name="Staff_Code" Type="Decimal" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Staff_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Des_Code" Type="Decimal" Precision="3" Scale="0" />
+    <Property Name="Dept_Code" Type="Decimal" Precision="2" Scale="0" />
+    <Property Name="Staff_dob" Type="DateTime" Precision="3" />
+    <Property Name="Hiredate" Type="DateTime" Precision="3" />
+    <Property Name="Mgr_code" Type="Decimal" Precision="8" Scale="0" />
+    <Property Name="Salary" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Address" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Department_master" Relationship="Self.FK__Staff_Mas__Dept___1BFD2C07" FromRole="Staff_Master" ToRole="Department_master" />
+    <NavigationProperty Name="Desig_master" Relationship="Self.FK__Staff_Mas__Des_C__1B0907CE" FromRole="Staff_Master" ToRole="Desig_master" />
+    <NavigationProperty Name="Book_Transaction" Relationship="Self.FK__Book_Tran__Staff__21B6055D" FromRole="Staff_Master" ToRole="Book_Transaction" />
+  </EntityType>
+  <EntityType Name="Student_master">
+    <Key>
+      <PropertyRef Name="Stud_Code" />
+    </Key>
+    <Property Name="Stud_Code" Type="Decimal" Precision="6" Scale="0" Nullable="false" />
+    <Property Name="Stud_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Dept_Code" Type="Decimal" Precision="2" Scale="0" />
+    <Property Name="Stud_Dob" Type="DateTime" Precision="3" />
+    <Property Name="Address" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Department_master" Relationship="Self.FK__Student_m__Dept___164452B1" FromRole="Student_master" ToRole="Department_master" />
+    <NavigationProperty Name="Book_Transaction" Relationship="Self.FK__Book_Tran__Stud___20C1E124" FromRole="Student_master" ToRole="Book_Transaction" />
+    <NavigationProperty Name="Student_Marks" Relationship="Self.FK__Student_M__Stud___182C9B23" FromRole="Student_master" ToRole="Student_Marks" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Book_Transaction">
+    <Key>
+      <PropertyRef Name="Issue_date" />
+      <PropertyRef Name="Exp_Return_date" />
+    </Key>
+    <Property Name="Book_code" Type="Decimal" Precision="10" Scale="0" />
+    <Property Name="Stud_code" Type="Decimal" Precision="6" Scale="0" />
+    <Property Name="Staff_code" Type="Decimal" Precision="8" Scale="0" />
+    <Property Name="Issue_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Exp_Return_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Actual_Return_date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Book_Master" Relationship="Self.FK__Book_Tran__Book___1FCDBCEB" FromRole="Book_Transaction" ToRole="Book_Master" />
+    <NavigationProperty Name="Staff_Master" Relationship="Self.FK__Book_Tran__Staff__21B6055D" FromRole="Book_Transaction" ToRole="Staff_Master" />
+    <NavigationProperty Name="Student_master" Relationship="Self.FK__Book_Tran__Stud___20C1E124" FromRole="Book_Transaction" ToRole="Student_master" />
+  </EntityType>
+  <EntityType Name="Student_Marks">
+    <Key>
+      <PropertyRef Name="Stud_Year" />
+    </Key>
+    <Property Name="Stud_Code" Type="Decimal" Precision="6" Scale="0" />
+    <Property Name="Stud_Year" Type="Int32" Nullable="false" />
+    <Property Name="Subject1" Type="Decimal" Precision="3" Scale="0" />
+    <Property Name="Subject2" Type="Decimal" Precision="3" Scale="0" />
+    <Property Name="Subject3" Type="Decimal" Precision="3" Scale="0" />
+    <NavigationProperty Name="Student_master" Relationship="Self.FK__Student_M__Stud___182C9B23" FromRole="Student_Marks" ToRole="Student_master" />
+  </EntityType>
+  <Association Name="FK__Book_Tran__Book___1FCDBCEB">
+    <End Role="Book_Master" Type="Self.Book_Master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book_Master">
+        <PropertyRef Name="Book_code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Book_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Staff_Mas__Dept___1BFD2C07">
+    <End Role="Department_master" Type="Self.Department_master" Multiplicity="0..1" />
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department_master">
+        <PropertyRef Name="Dept_code" />
+      </Principal>
+      <Dependent Role="Staff_Master">
+        <PropertyRef Name="Dept_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Student_m__Dept___164452B1">
+    <End Role="Department_master" Type="Self.Department_master" Multiplicity="0..1" />
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department_master">
+        <PropertyRef Name="Dept_code" />
+      </Principal>
+      <Dependent Role="Student_master">
+        <PropertyRef Name="Dept_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Staff_Mas__Des_C__1B0907CE">
+    <End Role="Desig_master" Type="Self.Desig_master" Multiplicity="0..1" />
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Desig_master">
+        <PropertyRef Name="Design_Code" />
+      </Principal>
+      <Dependent Role="Staff_Master">
+        <PropertyRef Name="Des_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Book_Tran__Staff__21B6055D">
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff_Master">
+        <PropertyRef Name="Staff_Code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Staff_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Book_Tran__Stud___20C1E124">
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student_master">
+        <PropertyRef Name="Stud_Code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Stud_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Student_M__Stud___182C9B23">
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="0..1" />
+    <End Role="Student_Marks" Type="Self.Student_Marks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student_master">
+        <PropertyRef Name="Stud_Code" />
+      </Principal>
+      <Dependent Role="Student_Marks">
+        <PropertyRef Name="Stud_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TrainingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Book_Master" EntityType="Self.Book_Master" />
+    <EntitySet Name="Department_master" EntityType="Self.Department_master" />
+    <EntitySet Name="Desig_master" EntityType="Self.Desig_master" />
+    <EntitySet Name="Staff_Master" EntityType="Self.Staff_Master" />
+    <EntitySet Name="Student_master" EntityType="Self.Student_master" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Book_Transaction" EntityType="Self.Book_Transaction" />
+    <EntitySet Name="Student_Marks" EntityType="Self.Student_Marks" />
+    <AssociationSet Name="FK__Book_Tran__Book___1FCDBCEB" Association="Self.FK__Book_Tran__Book___1FCDBCEB">
+      <End Role="Book_Master" EntitySet="Book_Master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Staff_Mas__Dept___1BFD2C07" Association="Self.FK__Staff_Mas__Dept___1BFD2C07">
+      <End Role="Department_master" EntitySet="Department_master" />
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Student_m__Dept___164452B1" Association="Self.FK__Student_m__Dept___164452B1">
+      <End Role="Department_master" EntitySet="Department_master" />
+      <End Role="Student_master" EntitySet="Student_master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Staff_Mas__Des_C__1B0907CE" Association="Self.FK__Staff_Mas__Des_C__1B0907CE">
+      <End Role="Desig_master" EntitySet="Desig_master" />
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Book_Tran__Staff__21B6055D" Association="Self.FK__Book_Tran__Staff__21B6055D">
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Book_Tran__Stud___20C1E124" Association="Self.FK__Book_Tran__Stud___20C1E124">
+      <End Role="Student_master" EntitySet="Student_master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Student_M__Stud___182C9B23" Association="Self.FK__Student_M__Stud___182C9B23">
+      <End Role="Student_master" EntitySet="Student_master" />
+      <End Role="Student_Marks" EntitySet="Student_Marks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

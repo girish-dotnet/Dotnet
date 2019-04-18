@@ -1,0 +1,59 @@
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe.config
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication_MarkupCompile.cache
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.g.resources
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.Properties.Resources.resources
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\bin\Debug\DataAccessLayer.dll
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\bin\Debug\DataAccessLayer.pdb
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\WinForms\MPT1\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe.config
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\ExternalXmlDataBinding.baml
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\InlineXmlDataBinding.baml
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\SimpleObservableCollection.baml
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\ExternalXmlDataBinding.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\InlineXmlDataBinding.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\INotifyPropertyChangedDemo.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\SimpleObservableCollection.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication_MarkupCompile.lref
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\INotifyPropertyChangedDemo.baml
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.g.resources
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\WPF\Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe.config
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\bin\Debug\WpfDataBindingApplication.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\ExternalXmlDataBinding.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\InlineXmlDataBinding.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\SimpleObservableCollection.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\ExternalXmlDataBinding.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\InlineXmlDataBinding.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\INotifyPropertyChangedDemo.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\SimpleObservableCollection.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication_MarkupCompile.lref
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\INotifyPropertyChangedDemo.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WpfDataBindingApplication\obj\Debug\WpfDataBindingApplication.csproj.GenerateResource.Cache

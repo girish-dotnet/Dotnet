@@ -1,0 +1,12 @@
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\Day2_ForeignKeyExample.exe.config
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\Database1.mdf
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\Database1_log.ldf
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\Day2_ForeignKeyExample.exe
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\Day2_ForeignKeyExample.pdb
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\EntityFramework.dll
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\EntityFramework.xml
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\obj\Debug\Day2_ForeignKeyExample.csprojResolveAssemblyReference.cache
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\obj\Debug\Day2_ForeignKeyExample.exe
+D:\Training\Module3\LINQ and EF\Day2_ForeignKeyExample\Day2_ForeignKeyExample\obj\Debug\Day2_ForeignKeyExample.pdb

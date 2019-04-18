@@ -1,0 +1,24 @@
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\bin\Debug\SenderSourceOriginalSource.exe
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\bin\Debug\SenderSourceOriginalSource.pdb
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.g.resources
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.exe
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.pdb
+D:\Nachiket\Study Materials\WPF\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\bin\Debug\SenderSourceOriginalSource.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\bin\Debug\SenderSourceOriginalSource.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Demos\SenderSourceOriginalSource\SenderSourceOriginalSource\obj\x86\Debug\SenderSourceOriginalSource.csproj.GenerateResource.Cache

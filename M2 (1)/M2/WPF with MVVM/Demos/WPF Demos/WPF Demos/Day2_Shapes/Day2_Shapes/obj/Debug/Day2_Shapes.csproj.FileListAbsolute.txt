@@ -1,0 +1,12 @@
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.exe.config
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\ShapesDemo.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\ShapesDemo.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.g.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.pdb

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LayoutPanels">
+</Property><Property Name="Solution File" Value="D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\LayoutPanels.sln">
+</Property><Property Name="User Options File" Value="D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\LayoutPanels.suo">
+</Property><Property Name="Date" Value="Wednesday, July 08, 2015">
+</Property><Property Name="Time" Value="16:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LayoutPanels.sln" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\LayoutPanels.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LayoutPanels.suo" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\LayoutPanels.suo">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="LayoutPanels.csproj" Description="Project file successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\LayoutPanels.csproj">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="MyApp.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\MyApp.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Menu.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Menu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="BasicDialogBox.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\BasicDialogBox.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleCanvas.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleCanvas.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleDock.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleDock.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleGrid.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleGrid.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleStack.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleStack.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleWrap.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleWrap.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SplitWindow.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SplitWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="TextBoxColumn.xaml.cs" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\TextBoxColumn.xaml.cs">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="MyApp.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\MyApp.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="BasicDialogBox.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\BasicDialogBox.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="Menu.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleCanvas.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleCanvas.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleDock.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleDock.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleGrid.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleGrid.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleStack.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleStack.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SimpleWrap.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SimpleWrap.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="SplitWindow.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\SplitWindow.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="TextBoxColumn.xaml" Description="File successfully backed up as D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day 1_Layouts\LayoutPanels\Backup\TextBoxColumn.xaml">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="LayoutPanels.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LayoutPanels" Source="LayoutPanels.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LayoutPanels.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LayoutPanels.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LayoutPanels" Source="LayoutPanels.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfDataBindingApplication.InlineXmlDataBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InlineXmlDataBinding" Height="300" Width="300">
+    <Window.Resources>
+        <XmlDataProvider x:Key="SoccerTeams">
+            <x:XData>
+                <Teams xmlns="">
+                    <Country Name="USA">
+                        <BestPlayer>Kasey Keller</BestPlayer>
+                    </Country>
+                    <Country Name="England">
+                        <BestPlayer>Joe Cole</BestPlayer>
+                    </Country>
+                    <Country Name="Japan">
+                        <BestPlayer>Nakata</BestPlayer>
+                    </Country>
+                </Teams>
+            </x:XData>
+        </XmlDataProvider>
+    </Window.Resources>
+    <Grid>
+        <ListView Name="lvwPlayers" 
+                  ItemsSource="{Binding Source={StaticResource SoccerTeams},
+                  XPath=/Teams/Country}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Country"
+                                    DisplayMemberBinding="{Binding XPath=@Name}"
+                                    Width="100"/>
+                    <GridViewColumn Header="Best Player"
+                                    DisplayMemberBinding="{Binding XPath=BestPlayer}"
+                                    Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        </Grid>
+</Window>

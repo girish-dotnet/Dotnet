@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Orders_Table>
+
+<Order id="1">
+  <ProductID quantity="1">322</ProductID>
+  <Product>
+  	 <Size>S</Size>
+         <Color>Black</Color>
+ 	 <ProductDetails>Chainring</ProductDetails>
+  </Product>
+  <CustomerID>1</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>
+</Order>
+
+<Order id="2">
+  <ProductID quantity="11">322</ProductID>
+  <Product>  
+         <Size>S</Size>
+         <Color>Black</Color>
+         <ProductDetails>Chainring</ProductDetails>
+  </Product>
+  <CustomerID>2</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>
+</Order>
+
+<Order id="3">
+  <ProductID quantity="1">321</ProductID>
+  <Product>
+         <Size>L</Size>
+         <Color>Silver</Color>
+         <ProductDetails>Chainring Nut</ProductDetails>
+  </Product>  
+  <CustomerID>1</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>
+</Order>
+
+<Order id="4">
+  <ProductID quantity="1">321</ProductID>
+  <Product>  
+         <Size>L</Size>
+         <Color>Silver</Color>
+         <ProductDetails>Chainring nut</ProductDetails>
+  </Product>
+  <CustomerID>2</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>  
+</Order>
+
+<Order id="5">
+  <ProductID quantity="12">321</ProductID>
+  <Product>  
+         <Size>L</Size>
+         <Color>Silver</Color>
+         <ProductDetails>Chainring Nut</ProductDetails>
+  </Product>
+  <CustomerID>3</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>  
+</Order>
+
+<Order id="6">
+  <ProductID quantity="100">322</ProductID>
+  <Product>
+         <Size>S</Size>
+         <Color>Black</Color>
+         <ProductDetails>Chainring</ProductDetails>
+  </Product> 
+  <CustomerID>3</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>  
+</Order>
+
+<Order id="7">
+  <ProductID quantity="150">322</ProductID>
+  <Product>  
+         <Size>S</Size>
+         <Color>Black</Color>
+         <ProductDetails>Chainring</ProductDetails>
+  </Product>
+  <CustomerID>4</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>
+</Order>
+
+<Order id="8">
+  <ProductID quantity="20">679</ProductID>
+  <Product>  
+         <Size>NULL</Size>
+         <Color>NULL</Color>
+         <ProductDetails>Rear Derailleur Cage
+  </ProductDetails>
+  </Product>
+  <CustomerID>1</CustomerID>
+  <EmailAddress>abc@cuasp.co.uk</EmailAddress>  
+</Order>
+
+</Orders_Table>

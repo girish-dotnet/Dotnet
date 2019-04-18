@@ -1,0 +1,53 @@
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe.config
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.g.resources
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.pdb
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.exe
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.pdb
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.baml
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.g.cs
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.baml
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\Shell.baml
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.g.cs
+D:\Nachiket\Study Materials\WPF\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\Shell.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe.config
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.exe
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.pdb
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.pdb
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.baml
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.baml
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.baml
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\Shell.baml
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\Shell.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\App.g.cs
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures_MarkupCompile.cache
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.g.resources
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.Properties.Resources.resources
+C:\Users\NI824447\Desktop\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe.config
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\bin\Debug\WPF45NewFeatures.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.baml
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\DelayedBinding.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\MainWindow_Filter.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.g.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.exe
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.pdb
+D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\WPF45NewFeatures\WPF45NewFeatures\obj\Debug\WPF45NewFeatures.csprojResolveAssemblyReference.cache

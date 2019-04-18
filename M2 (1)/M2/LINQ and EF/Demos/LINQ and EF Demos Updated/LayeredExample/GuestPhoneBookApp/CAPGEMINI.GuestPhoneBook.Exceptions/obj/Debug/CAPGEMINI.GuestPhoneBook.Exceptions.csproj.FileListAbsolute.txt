@@ -1,0 +1,5 @@
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb

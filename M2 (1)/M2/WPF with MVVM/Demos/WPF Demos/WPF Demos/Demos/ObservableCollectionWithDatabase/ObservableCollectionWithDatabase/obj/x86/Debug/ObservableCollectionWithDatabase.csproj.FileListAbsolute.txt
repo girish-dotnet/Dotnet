@@ -1,0 +1,12 @@
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.exe.config
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.exe
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.pdb
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\App.g.cs
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase_MarkupCompile.cache
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.g.resources
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.Properties.Resources.resources
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.exe
+D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.pdb

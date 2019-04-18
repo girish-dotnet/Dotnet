@@ -1,0 +1,13 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\CodeFirstApproachEx.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\CodeFirstApproachEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\CodeFirstApproachEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.Form1.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.Properties.Resources.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.pdb

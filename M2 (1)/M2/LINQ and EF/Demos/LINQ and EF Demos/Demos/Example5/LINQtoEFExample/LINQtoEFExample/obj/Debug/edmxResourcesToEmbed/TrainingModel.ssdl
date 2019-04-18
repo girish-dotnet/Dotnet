@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Book_Master">
+    <Key>
+      <PropertyRef Name="Book_code" />
+    </Key>
+    <Property Name="Book_code" Type="numeric" Precision="10" Scale="0" Nullable="false" />
+    <Property Name="Book_name" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="pub_year" Type="int" />
+    <Property Name="Author" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="book_category" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Training.dbo.Book_Transaction' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Book_Transaction">
+    <Key>
+      <PropertyRef Name="Issue_date" />
+      <PropertyRef Name="Exp_Return_date" />
+    </Key>
+    <Property Name="Book_code" Type="numeric" Precision="10" Scale="0" />
+    <Property Name="Stud_code" Type="numeric" Precision="6" Scale="0" />
+    <Property Name="Staff_code" Type="numeric" Precision="8" Scale="0" />
+    <Property Name="Issue_date" Type="datetime" Nullable="false" />
+    <Property Name="Exp_Return_date" Type="datetime" Nullable="false" />
+    <Property Name="Actual_Return_date" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Department_master">
+    <Key>
+      <PropertyRef Name="Dept_code" />
+    </Key>
+    <Property Name="Dept_code" Type="numeric" Precision="2" Scale="0" Nullable="false" />
+    <Property Name="Dept_Name" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Desig_master">
+    <Key>
+      <PropertyRef Name="Design_Code" />
+    </Key>
+    <Property Name="Design_Code" Type="numeric" Precision="3" Scale="0" Nullable="false" />
+    <Property Name="Design_Name" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Staff_Master">
+    <Key>
+      <PropertyRef Name="Staff_Code" />
+    </Key>
+    <Property Name="Staff_Code" Type="numeric" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Staff_Name" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Des_Code" Type="numeric" Precision="3" Scale="0" />
+    <Property Name="Dept_Code" Type="numeric" Precision="2" Scale="0" />
+    <Property Name="Staff_dob" Type="datetime" />
+    <Property Name="Hiredate" Type="datetime" />
+    <Property Name="Mgr_code" Type="numeric" Precision="8" Scale="0" />
+    <Property Name="Salary" Type="numeric" Precision="10" Scale="2" />
+    <Property Name="Address" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Training.dbo.Student_Marks' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Student_Marks">
+    <Key>
+      <PropertyRef Name="Stud_Year" />
+    </Key>
+    <Property Name="Stud_Code" Type="numeric" Precision="6" Scale="0" />
+    <Property Name="Stud_Year" Type="int" Nullable="false" />
+    <Property Name="Subject1" Type="numeric" Precision="3" Scale="0" />
+    <Property Name="Subject2" Type="numeric" Precision="3" Scale="0" />
+    <Property Name="Subject3" Type="numeric" Precision="3" Scale="0" />
+  </EntityType>
+  <EntityType Name="Student_master">
+    <Key>
+      <PropertyRef Name="Stud_Code" />
+    </Key>
+    <Property Name="Stud_Code" Type="numeric" Precision="6" Scale="0" Nullable="false" />
+    <Property Name="Stud_Name" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Dept_Code" Type="numeric" Precision="2" Scale="0" />
+    <Property Name="Stud_Dob" Type="datetime" />
+    <Property Name="Address" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Book_Tran__Book___1FCDBCEB">
+    <End Role="Book_Master" Type="Self.Book_Master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book_Master">
+        <PropertyRef Name="Book_code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Book_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Book_Tran__Staff__21B6055D">
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff_Master">
+        <PropertyRef Name="Staff_Code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Staff_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Book_Tran__Stud___20C1E124">
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="0..1" />
+    <End Role="Book_Transaction" Type="Self.Book_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student_master">
+        <PropertyRef Name="Stud_Code" />
+      </Principal>
+      <Dependent Role="Book_Transaction">
+        <PropertyRef Name="Stud_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Staff_Mas__Dept___1BFD2C07">
+    <End Role="Department_master" Type="Self.Department_master" Multiplicity="0..1" />
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department_master">
+        <PropertyRef Name="Dept_code" />
+      </Principal>
+      <Dependent Role="Staff_Master">
+        <PropertyRef Name="Dept_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Staff_Mas__Des_C__1B0907CE">
+    <End Role="Desig_master" Type="Self.Desig_master" Multiplicity="0..1" />
+    <End Role="Staff_Master" Type="Self.Staff_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Desig_master">
+        <PropertyRef Name="Design_Code" />
+      </Principal>
+      <Dependent Role="Staff_Master">
+        <PropertyRef Name="Des_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Student_m__Dept___164452B1">
+    <End Role="Department_master" Type="Self.Department_master" Multiplicity="0..1" />
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department_master">
+        <PropertyRef Name="Dept_code" />
+      </Principal>
+      <Dependent Role="Student_master">
+        <PropertyRef Name="Dept_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Student_M__Stud___182C9B23">
+    <End Role="Student_master" Type="Self.Student_master" Multiplicity="0..1" />
+    <End Role="Student_Marks" Type="Self.Student_Marks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student_master">
+        <PropertyRef Name="Stud_Code" />
+      </Principal>
+      <Dependent Role="Student_Marks">
+        <PropertyRef Name="Stud_Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="Book_Master" EntityType="Self.Book_Master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Department_master" EntityType="Self.Department_master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Desig_master" EntityType="Self.Desig_master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Staff_Master" EntityType="Self.Staff_Master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student_master" EntityType="Self.Student_master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Book_Transaction" EntityType="Self.Book_Transaction" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Book_Transaction].[Book_code] AS [Book_code], 
+    [Book_Transaction].[Stud_code] AS [Stud_code], 
+    [Book_Transaction].[Staff_code] AS [Staff_code], 
+    [Book_Transaction].[Issue_date] AS [Issue_date], 
+    [Book_Transaction].[Exp_Return_date] AS [Exp_Return_date], 
+    [Book_Transaction].[Actual_Return_date] AS [Actual_Return_date]
+    FROM [dbo].[Book_Transaction] AS [Book_Transaction]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Student_Marks" EntityType="Self.Student_Marks" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Student_Marks].[Stud_Code] AS [Stud_Code], 
+    [Student_Marks].[Stud_Year] AS [Stud_Year], 
+    [Student_Marks].[Subject1] AS [Subject1], 
+    [Student_Marks].[Subject2] AS [Subject2], 
+    [Student_Marks].[Subject3] AS [Subject3]
+    FROM [dbo].[Student_Marks] AS [Student_Marks]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__Book_Tran__Book___1FCDBCEB" Association="Self.FK__Book_Tran__Book___1FCDBCEB">
+      <End Role="Book_Master" EntitySet="Book_Master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Book_Tran__Staff__21B6055D" Association="Self.FK__Book_Tran__Staff__21B6055D">
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Book_Tran__Stud___20C1E124" Association="Self.FK__Book_Tran__Stud___20C1E124">
+      <End Role="Student_master" EntitySet="Student_master" />
+      <End Role="Book_Transaction" EntitySet="Book_Transaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Staff_Mas__Dept___1BFD2C07" Association="Self.FK__Staff_Mas__Dept___1BFD2C07">
+      <End Role="Department_master" EntitySet="Department_master" />
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Staff_Mas__Des_C__1B0907CE" Association="Self.FK__Staff_Mas__Des_C__1B0907CE">
+      <End Role="Desig_master" EntitySet="Desig_master" />
+      <End Role="Staff_Master" EntitySet="Staff_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Student_m__Dept___164452B1" Association="Self.FK__Student_m__Dept___164452B1">
+      <End Role="Department_master" EntitySet="Department_master" />
+      <End Role="Student_master" EntitySet="Student_master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Student_M__Stud___182C9B23" Association="Self.FK__Student_M__Stud___182C9B23">
+      <End Role="Student_master" EntitySet="Student_master" />
+      <End Role="Student_Marks" EntitySet="Student_Marks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

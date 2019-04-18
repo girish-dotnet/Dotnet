@@ -1,0 +1,34 @@
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.exe.config
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\HomePage.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\MainWindow.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\HomePage.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\MainWindow.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\App.g.cs
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation_MarkupCompile.cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.g.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.Properties.Resources.resources
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.csproj.GenerateResource.Cache
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.exe
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.pdb
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\AboutUs.baml
+D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\AboutUs.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.exe.config
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\bin\Debug\Day1_Navigation.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\AboutUs.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\HomePage.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\MainWindow.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\AboutUs.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\HomePage.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\MainWindow.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\App.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation_MarkupCompile.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.g.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day1_Navigation\Day1_Navigation\obj\Debug\Day1_Navigation.pdb

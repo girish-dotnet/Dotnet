@@ -1,0 +1,4 @@
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Entities\bin\Debug\CAPGEMINI.GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Entities\bin\Debug\CAPGEMINI.GuestPhoneBook.Entities.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Entities\obj\Debug\CAPGEMINI.GuestPhoneBook.Entities.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Entities\obj\Debug\CAPGEMINI.GuestPhoneBook.Entities.pdb

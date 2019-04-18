@@ -1,0 +1,25 @@
+﻿<Window x:Class="Content.Menu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Menu" Height="300" Width="244"
+    >
+    <Grid>
+      <StackPanel Margin="5" Button.Click="ButtonClick">        
+        <Button>ButtonsWithContent</Button>
+        <Button>ButtonWithShape</Button>        
+        
+        <Button>ScrollableTextBoxColumn</Button>
+       
+        <Button>GroupBoxTest</Button>
+        <Button>TabTest</Button>
+        
+        <Button>ExpandableContent</Button>
+        
+        
+        <Button>SimpleBorder</Button>
+        
+
+      </StackPanel>
+        
+    </Grid>
+</Window>

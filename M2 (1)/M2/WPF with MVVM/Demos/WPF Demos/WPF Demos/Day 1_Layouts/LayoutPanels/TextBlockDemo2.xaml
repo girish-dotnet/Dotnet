@@ -1,0 +1,26 @@
+﻿<Window x:Class="LayoutPanels.TextBlockDemo2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutPanels"
+        mc:Ignorable="d"
+        Title="TextBlockDemo2" Height="450" Width="800">
+    <Grid>
+        <TextBlock 
+            HorizontalAlignment="Left" 
+            Margin="243.21,102.399,0,0" 
+            TextWrapping="Wrap" 
+             VerticalAlignment="Top" FontSize="22">
+            Welcome to <Run Foreground="Blue" FontSize = "30">WPF programming</Run>
+            From <Run FontSize = "30">Capgemini</Run>
+            batch at Hyderabad Abridge Solutions...
+            Thank You everyone, for MT1 exam. 
+            We have next exam scheduled in next week.
+            All the best. 
+            Now WPF Layouts and Controls Topic is going
+            on.
+        </TextBlock>
+
+    </Grid>
+</Window>

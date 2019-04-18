@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfDataBindingApplication.INotifyPropertyChangedDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="INotifyPropertyChangedDemo" Height="300" Width="300"
+        xmlns:local="clr-namespace:WpfDataBindingApplication">
+    <Window.Resources>
+        <local:MobileStore x:Key="MobileStoreData" Brand="Samsung" Model="Galaxy Tab 4" Stock="20" Price="23000"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource MobileStoreData}">
+        <Label Content="Brand: " Height="28" HorizontalAlignment="Left" Margin="12,10,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Model: " Height="28" HorizontalAlignment="Left" Margin="12,45,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Stock: " Height="28" HorizontalAlignment="Left" Margin="12,86,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Price: " Height="28" HorizontalAlignment="Left" Margin="10,124,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="181,15,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" Text="{Binding Path=Brand}" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="181,50,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" Text="{Binding Path=Model}"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="181,91,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" Text="{Binding Path=Stock}"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="181,129,0,0" Name="textBox4" VerticalAlignment="Top" Width="120" Text="{Binding Path=Price}"/>
+    </Grid>
+</Window>

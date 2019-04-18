@@ -1,0 +1,68 @@
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\bin\Debug\LayoutPanels.exe
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\bin\Debug\LayoutPanels.pdb
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\BasicDialogBox.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\DoubleSplitWindow.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LocalizableText.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\Menu.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\ModularContent.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SharedSizeGroup.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleCanvas.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleDock.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleGrid.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleInkCanvas.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleStack.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleWrap.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SplitWindow.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\TextBoxColumn.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\TheUniformGrid.baml
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\BasicDialogBox.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\DoubleSplitWindow.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LocalizableText.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\Menu.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\ModularContent.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SharedSizeGroup.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleCanvas.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleDock.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleGrid.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleInkCanvas.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleStack.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SimpleWrap.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\SplitWindow.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\TextBoxColumn.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\TheUniformGrid.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\MyApp.g.cs
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.csproj.GenerateResource.Cache
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.exe
+D:\DOTNET3.0\PatniMaterial\WPF\Pro_WPF 2008\Pro WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\bin\Debug\LayoutPanels.exe
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\bin\Debug\LayoutPanels.pdb
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\ResolveAssemblyReference.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\BasicDialogBox.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\Menu.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleCanvas.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleDock.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleGrid.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleStack.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleWrap.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SplitWindow.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\TextBoxColumn.baml
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\BasicDialogBox.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\Menu.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleCanvas.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleDock.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleGrid.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleStack.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SimpleWrap.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\SplitWindow.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\TextBoxColumn.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\MyApp.g.cs
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+D:\Ganesh\CourseMaterial\L1.NET_Final_Material\WPF\Demos\WPF\Chapter04\LayoutPanels\obj\Debug\LayoutPanels.csproj.GenerateResource.Cache

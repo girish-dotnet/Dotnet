@@ -1,0 +1,19 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\DatabaseFirstApproachEx.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\DatabaseFirstApproachEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\DatabaseFirstApproachEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.Form1.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.Properties.Resources.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\DatabaseFirstApproachEx.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\bin\Debug\DatabaseFirstApproachEx.exe.config
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.exe
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example2\DatabaseFirstApproachEx\DatabaseFirstApproachEx\obj\Debug\DatabaseFirstApproachEx.pdb

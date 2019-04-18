@@ -1,0 +1,11 @@
+﻿<Window x:Class="SenderSourceOriginalSource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Orientation="Vertical" MouseMove="EventHandlingInWPF">
+        <Button Content="Move Mouse Over Me" MaxWidth="125"/>
+        <Button Click="btnClear_Click" Margin="5" MaxWidth="75">Clear List</Button>
+        <ListBox Margin="5" Name="lstMessages"></ListBox>
+    </StackPanel>
+
+</Window>

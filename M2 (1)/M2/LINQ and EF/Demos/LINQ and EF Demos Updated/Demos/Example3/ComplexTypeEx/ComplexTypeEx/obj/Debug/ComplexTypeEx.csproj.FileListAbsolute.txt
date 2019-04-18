@@ -1,0 +1,30 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase.mdf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase_log.ldf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Form1.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Properties.Resources.resources
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe.config
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.exe
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Form1.resources
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Properties.Resources.resources
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.GenerateResource.Cache
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase.mdf
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase_log.ldf
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.pdb
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.xml

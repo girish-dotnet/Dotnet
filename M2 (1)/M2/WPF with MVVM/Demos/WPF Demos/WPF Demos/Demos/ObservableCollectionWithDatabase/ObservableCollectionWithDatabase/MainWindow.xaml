@@ -1,0 +1,15 @@
+﻿<Window x:Class="ObservableCollectionWithDatabase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button x:Name="btnStudentsDetails" Content="Get Students Details" Click="btnStudentsDetails_Click" MaxWidth="125" MaxHeight="70" HorizontalAlignment="Center" Margin="5"/>
+        <DataGrid HorizontalAlignment="Center" VerticalAlignment="Top" x:Name="grdStudents" AutoGenerateColumns="False" Margin="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding StudentID}" Header="Roll No"/>
+                <DataGridTextColumn Binding="{Binding StudentName}" Header="Student Name"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--<ComboBox Height="23" Name="cmdCustomerID" Width="120" DisplayMemberPath="StudentID"/>-->
+    </StackPanel>
+</Window>

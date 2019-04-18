@@ -1,0 +1,12 @@
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.exe.config
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\CompanyDatabase.mdf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\CompanyDatabase_log.ldf
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.csprojResolveAssemblyReference.cache
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.exe
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.pdb
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.xml
+D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.xml

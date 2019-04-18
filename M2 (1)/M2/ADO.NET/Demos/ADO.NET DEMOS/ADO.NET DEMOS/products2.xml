@@ -1,0 +1,32 @@
+<NewDataSet>
+  <Product>
+    <ProductID>1</ProductID>
+    <Name>Adjustable Race</Name>
+    <ProductNumber>AR-5381</ProductNumber>
+    <MakeFlag>false</MakeFlag>
+    <FinishedGoodsFlag>false</FinishedGoodsFlag>
+    <SafetyStockLevel>1000</SafetyStockLevel>
+    <ReorderPoint>750</ReorderPoint>
+    <StandardCost>0.0000</StandardCost>
+    <ListPrice>0.0000</ListPrice>
+    <DaysToManufacture>0</DaysToManufacture>
+    <SellStartDate>2002-06-01T00:00:00+05:30</SellStartDate>
+    <rowguid>694215b7-08f7-4c0d-acb1-d734ba44c0c8</rowguid>
+    <ModifiedDate>2008-03-11T10:01:36.827+05:30</ModifiedDate>
+  </Product>
+  <Product>
+    <ProductID>2</ProductID>
+    <Name>Bearing Ball</Name>
+    <ProductNumber>BA-8327</ProductNumber>
+    <MakeFlag>false</MakeFlag>
+    <FinishedGoodsFlag>false</FinishedGoodsFlag>
+    <SafetyStockLevel>1000</SafetyStockLevel>
+    <ReorderPoint>750</ReorderPoint>
+    <StandardCost>0.0000</StandardCost>
+    <ListPrice>0.0000</ListPrice>
+    <DaysToManufacture>0</DaysToManufacture>
+    <SellStartDate>2002-06-01T00:00:00+05:30</SellStartDate>
+    <rowguid>58ae3c20-4f3a-4749-a7d4-d568806cc537</rowguid>
+    <ModifiedDate>2008-03-11T10:01:36.827+05:30</ModifiedDate>
+  </Product>
+</NewDataSet>
