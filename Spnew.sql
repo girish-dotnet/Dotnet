@@ -37,3 +37,27 @@ BEGIN
 	INSERT INTO EMp VALUES(@empno,@name,@dept,@desig,@basic)
 END
 GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcEmpOut') 
+DROP PROC prcEmpOut 
+GO
+CREATE PROC [dbo].[prcEmpOut] 
+					@empno INT,
+					@Nam VARCHAR(30) OUTPUT,
+					@Dept VARCHAR(30) OUTPUT,
+					@Desig VARCHAR(30) OUTPUT,
+					@Basic INT OUTPUT
+AS
+BEGIN
+	IF EXISTS(SELECT * FROM EMP WHERE Empno=@empno) 
+	BEGIN
+		 SELECT @Nam=Nam,@Dept=Dept,@Desig=Desig,@Basic=BASIC
+		 FROM EMP WHERE EMPNO=@empno
+		 RETURN 1
+	END
+	ELSE 
+	BEGIN
+		RETURN 0
+	END 
+END
+GO
