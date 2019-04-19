@@ -11,3 +11,8 @@ D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstAppro
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csproj.GenerateResource.Cache
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.exe
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example1\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example2\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example2\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.Form1.resources
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example2\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example2\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example2\CodeFirstApproachEx\CodeFirstApproachEx\obj\Debug\CodeFirstApproachEx.csproj.CoreCompileInputs.cache

@@ -30,44 +30,44 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtFname = new System.Windows.Forms.TextBox();
-            this.txtLname = new System.Windows.Forms.TextBox();
-            this.cboGender = new System.Windows.Forms.ComboBox();
-            this.dtpDOB = new System.Windows.Forms.DateTimePicker();
-            this.cboDesign = new System.Windows.Forms.ComboBox();
-            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.btnAddEmployee = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
-            this.txtEmpID = new System.Windows.Forms.TextBox();
-            this.btnSearchEmployee = new System.Windows.Forms.Button();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.cboDesign = new System.Windows.Forms.ComboBox();
+            this.dtpDOB = new System.Windows.Forms.DateTimePicker();
+            this.cboGender = new System.Windows.Forms.ComboBox();
+            this.txtLname = new System.Windows.Forms.TextBox();
+            this.txtFname = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.btnDeleteEmployee = new System.Windows.Forms.Button();
+            this.btnUpdateEmployee = new System.Windows.Forms.Button();
+            this.cboDesignation = new System.Windows.Forms.ComboBox();
+            this.txtEmailID = new System.Windows.Forms.TextBox();
+            this.txtDob = new System.Windows.Forms.TextBox();
+            this.txtGender = new System.Windows.Forms.TextBox();
+            this.txtLastName = new System.Windows.Forms.TextBox();
+            this.txtFirstName = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.txtFirstName = new System.Windows.Forms.TextBox();
-            this.txtLastName = new System.Windows.Forms.TextBox();
-            this.txtGender = new System.Windows.Forms.TextBox();
-            this.txtDob = new System.Windows.Forms.TextBox();
-            this.txtEmailID = new System.Windows.Forms.TextBox();
-            this.cboDesignation = new System.Windows.Forms.ComboBox();
-            this.btnUpdateEmployee = new System.Windows.Forms.Button();
-            this.btnDeleteEmployee = new System.Windows.Forms.Button();
+            this.btnSearchEmployee = new System.Windows.Forms.Button();
+            this.txtEmpID = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.tabPage3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -93,6 +93,15 @@
             this.tabPage1.Text = "View All Employees";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridView1.Location = new System.Drawing.Point(3, 3);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(755, 480);
+            this.dataGridView1.TabIndex = 0;
+            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.btnAddEmployee);
@@ -115,6 +124,126 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Add Employees";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // btnAddEmployee
+            // 
+            this.btnAddEmployee.Location = new System.Drawing.Point(254, 381);
+            this.btnAddEmployee.Name = "btnAddEmployee";
+            this.btnAddEmployee.Size = new System.Drawing.Size(265, 33);
+            this.btnAddEmployee.TabIndex = 12;
+            this.btnAddEmployee.Text = "Add Employee";
+            this.btnAddEmployee.UseVisualStyleBackColor = true;
+            this.btnAddEmployee.Click += new System.EventHandler(this.btnAddEmployee_Click);
+            // 
+            // txtEmail
+            // 
+            this.txtEmail.Location = new System.Drawing.Point(254, 320);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(265, 22);
+            this.txtEmail.TabIndex = 11;
+            // 
+            // cboDesign
+            // 
+            this.cboDesign.FormattingEnabled = true;
+            this.cboDesign.Items.AddRange(new object[] {
+            "Software Engineer",
+            "Sr SW Engineer",
+            "Consultant",
+            "Senior Consultant",
+            "Manager"});
+            this.cboDesign.Location = new System.Drawing.Point(254, 264);
+            this.cboDesign.Name = "cboDesign";
+            this.cboDesign.Size = new System.Drawing.Size(200, 24);
+            this.cboDesign.TabIndex = 10;
+            this.cboDesign.Text = "(Select)";
+            // 
+            // dtpDOB
+            // 
+            this.dtpDOB.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpDOB.Location = new System.Drawing.Point(254, 204);
+            this.dtpDOB.Name = "dtpDOB";
+            this.dtpDOB.Size = new System.Drawing.Size(200, 22);
+            this.dtpDOB.TabIndex = 9;
+            // 
+            // cboGender
+            // 
+            this.cboGender.FormattingEnabled = true;
+            this.cboGender.Items.AddRange(new object[] {
+            "Male",
+            "Female"});
+            this.cboGender.Location = new System.Drawing.Point(254, 147);
+            this.cboGender.Name = "cboGender";
+            this.cboGender.Size = new System.Drawing.Size(200, 24);
+            this.cboGender.TabIndex = 8;
+            this.cboGender.Text = "(Select Gender)";
+            // 
+            // txtLname
+            // 
+            this.txtLname.Location = new System.Drawing.Point(254, 94);
+            this.txtLname.Name = "txtLname";
+            this.txtLname.Size = new System.Drawing.Size(200, 22);
+            this.txtLname.TabIndex = 7;
+            // 
+            // txtFname
+            // 
+            this.txtFname.Location = new System.Drawing.Point(254, 48);
+            this.txtFname.Name = "txtFname";
+            this.txtFname.Size = new System.Drawing.Size(200, 22);
+            this.txtFname.TabIndex = 6;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(65, 326);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(47, 16);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Email";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(65, 264);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(91, 16);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Designation";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(65, 210);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(93, 16);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Date of Birth";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(65, 155);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(59, 16);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Gender";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(65, 104);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(82, 16);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Last Name";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(65, 53);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(83, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "First Name";
             // 
             // tabPage3
             // 
@@ -142,160 +271,76 @@
             this.tabPage3.Text = "Update and Delete Employee";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // dataGridView1
+            // btnDeleteEmployee
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView1.Location = new System.Drawing.Point(3, 3);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(755, 480);
-            this.dataGridView1.TabIndex = 0;
+            this.btnDeleteEmployee.Location = new System.Drawing.Point(337, 433);
+            this.btnDeleteEmployee.Name = "btnDeleteEmployee";
+            this.btnDeleteEmployee.Size = new System.Drawing.Size(210, 35);
+            this.btnDeleteEmployee.TabIndex = 19;
+            this.btnDeleteEmployee.Text = "Delete Employee";
+            this.btnDeleteEmployee.UseVisualStyleBackColor = true;
+            this.btnDeleteEmployee.Click += new System.EventHandler(this.btnDeleteEmployee_Click);
             // 
-            // label1
+            // btnUpdateEmployee
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(65, 53);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(83, 16);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "First Name";
+            this.btnUpdateEmployee.Location = new System.Drawing.Point(81, 434);
+            this.btnUpdateEmployee.Name = "btnUpdateEmployee";
+            this.btnUpdateEmployee.Size = new System.Drawing.Size(199, 34);
+            this.btnUpdateEmployee.TabIndex = 18;
+            this.btnUpdateEmployee.Text = "Update Employee";
+            this.btnUpdateEmployee.UseVisualStyleBackColor = true;
+            this.btnUpdateEmployee.Click += new System.EventHandler(this.btnUpdateEmployee_Click);
             // 
-            // label2
+            // cboDesignation
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(65, 104);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 16);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Last Name";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(65, 155);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(59, 16);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Gender";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(65, 210);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(93, 16);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Date of Birth";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(65, 264);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(91, 16);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Designation";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(65, 326);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(47, 16);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Email";
-            // 
-            // txtFname
-            // 
-            this.txtFname.Location = new System.Drawing.Point(254, 48);
-            this.txtFname.Name = "txtFname";
-            this.txtFname.Size = new System.Drawing.Size(200, 22);
-            this.txtFname.TabIndex = 6;
-            // 
-            // txtLname
-            // 
-            this.txtLname.Location = new System.Drawing.Point(254, 94);
-            this.txtLname.Name = "txtLname";
-            this.txtLname.Size = new System.Drawing.Size(200, 22);
-            this.txtLname.TabIndex = 7;
-            // 
-            // cboGender
-            // 
-            this.cboGender.FormattingEnabled = true;
-            this.cboGender.Items.AddRange(new object[] {
-            "Male",
-            "Female"});
-            this.cboGender.Location = new System.Drawing.Point(254, 147);
-            this.cboGender.Name = "cboGender";
-            this.cboGender.Size = new System.Drawing.Size(200, 24);
-            this.cboGender.TabIndex = 8;
-            this.cboGender.Text = "(Select Gender)";
-            // 
-            // dtpDOB
-            // 
-            this.dtpDOB.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpDOB.Location = new System.Drawing.Point(254, 204);
-            this.dtpDOB.Name = "dtpDOB";
-            this.dtpDOB.Size = new System.Drawing.Size(200, 22);
-            this.dtpDOB.TabIndex = 9;
-            // 
-            // cboDesign
-            // 
-            this.cboDesign.FormattingEnabled = true;
-            this.cboDesign.Items.AddRange(new object[] {
+            this.cboDesignation.FormattingEnabled = true;
+            this.cboDesignation.Items.AddRange(new object[] {
             "Software Engineer",
             "Sr SW Engineer",
             "Consultant",
             "Senior Consultant",
             "Manager"});
-            this.cboDesign.Location = new System.Drawing.Point(254, 264);
-            this.cboDesign.Name = "cboDesign";
-            this.cboDesign.Size = new System.Drawing.Size(200, 24);
-            this.cboDesign.TabIndex = 10;
-            this.cboDesign.Text = "(Select)";
+            this.cboDesignation.Location = new System.Drawing.Point(247, 342);
+            this.cboDesignation.Name = "cboDesignation";
+            this.cboDesignation.Size = new System.Drawing.Size(181, 24);
+            this.cboDesignation.TabIndex = 17;
             // 
-            // txtEmail
+            // txtEmailID
             // 
-            this.txtEmail.Location = new System.Drawing.Point(254, 320);
-            this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(265, 22);
-            this.txtEmail.TabIndex = 11;
+            this.txtEmailID.Location = new System.Drawing.Point(247, 390);
+            this.txtEmailID.Name = "txtEmailID";
+            this.txtEmailID.Size = new System.Drawing.Size(238, 22);
+            this.txtEmailID.TabIndex = 16;
             // 
-            // btnAddEmployee
+            // txtDob
             // 
-            this.btnAddEmployee.Location = new System.Drawing.Point(254, 381);
-            this.btnAddEmployee.Name = "btnAddEmployee";
-            this.btnAddEmployee.Size = new System.Drawing.Size(265, 33);
-            this.btnAddEmployee.TabIndex = 12;
-            this.btnAddEmployee.Text = "Add Employee";
-            this.btnAddEmployee.UseVisualStyleBackColor = true;
-            this.btnAddEmployee.Click += new System.EventHandler(this.btnAddEmployee_Click);
+            this.txtDob.Enabled = false;
+            this.txtDob.Location = new System.Drawing.Point(247, 290);
+            this.txtDob.Name = "txtDob";
+            this.txtDob.Size = new System.Drawing.Size(181, 22);
+            this.txtDob.TabIndex = 15;
             // 
-            // label7
+            // txtGender
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(78, 61);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(97, 16);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Employee ID";
+            this.txtGender.Enabled = false;
+            this.txtGender.Location = new System.Drawing.Point(247, 235);
+            this.txtGender.Name = "txtGender";
+            this.txtGender.Size = new System.Drawing.Size(181, 22);
+            this.txtGender.TabIndex = 14;
             // 
-            // txtEmpID
+            // txtLastName
             // 
-            this.txtEmpID.Location = new System.Drawing.Point(247, 58);
-            this.txtEmpID.Name = "txtEmpID";
-            this.txtEmpID.Size = new System.Drawing.Size(181, 22);
-            this.txtEmpID.TabIndex = 1;
+            this.txtLastName.Location = new System.Drawing.Point(247, 184);
+            this.txtLastName.Name = "txtLastName";
+            this.txtLastName.Size = new System.Drawing.Size(181, 22);
+            this.txtLastName.TabIndex = 13;
             // 
-            // btnSearchEmployee
+            // txtFirstName
             // 
-            this.btnSearchEmployee.Location = new System.Drawing.Point(247, 98);
-            this.btnSearchEmployee.Name = "btnSearchEmployee";
-            this.btnSearchEmployee.Size = new System.Drawing.Size(181, 28);
-            this.btnSearchEmployee.TabIndex = 2;
-            this.btnSearchEmployee.Text = "Search Employee";
-            this.btnSearchEmployee.UseVisualStyleBackColor = true;
-            this.btnSearchEmployee.Click += new System.EventHandler(this.button1_Click);
+            this.txtFirstName.Location = new System.Drawing.Point(247, 139);
+            this.txtFirstName.Name = "txtFirstName";
+            this.txtFirstName.Size = new System.Drawing.Size(181, 22);
+            this.txtFirstName.TabIndex = 12;
             // 
             // label8
             // 
@@ -351,85 +396,40 @@
             this.label13.TabIndex = 6;
             this.label13.Text = "First Name";
             // 
-            // txtFirstName
+            // btnSearchEmployee
             // 
-            this.txtFirstName.Location = new System.Drawing.Point(247, 139);
-            this.txtFirstName.Name = "txtFirstName";
-            this.txtFirstName.Size = new System.Drawing.Size(181, 22);
-            this.txtFirstName.TabIndex = 12;
+            this.btnSearchEmployee.Location = new System.Drawing.Point(247, 98);
+            this.btnSearchEmployee.Name = "btnSearchEmployee";
+            this.btnSearchEmployee.Size = new System.Drawing.Size(181, 28);
+            this.btnSearchEmployee.TabIndex = 2;
+            this.btnSearchEmployee.Text = "Search Employee";
+            this.btnSearchEmployee.UseVisualStyleBackColor = true;
+            this.btnSearchEmployee.Click += new System.EventHandler(this.button1_Click);
             // 
-            // txtLastName
+            // txtEmpID
             // 
-            this.txtLastName.Location = new System.Drawing.Point(247, 184);
-            this.txtLastName.Name = "txtLastName";
-            this.txtLastName.Size = new System.Drawing.Size(181, 22);
-            this.txtLastName.TabIndex = 13;
+            this.txtEmpID.Location = new System.Drawing.Point(247, 58);
+            this.txtEmpID.Name = "txtEmpID";
+            this.txtEmpID.Size = new System.Drawing.Size(181, 22);
+            this.txtEmpID.TabIndex = 1;
             // 
-            // txtGender
+            // label7
             // 
-            this.txtGender.Enabled = false;
-            this.txtGender.Location = new System.Drawing.Point(247, 235);
-            this.txtGender.Name = "txtGender";
-            this.txtGender.Size = new System.Drawing.Size(181, 22);
-            this.txtGender.TabIndex = 14;
-            // 
-            // txtDob
-            // 
-            this.txtDob.Enabled = false;
-            this.txtDob.Location = new System.Drawing.Point(247, 290);
-            this.txtDob.Name = "txtDob";
-            this.txtDob.Size = new System.Drawing.Size(181, 22);
-            this.txtDob.TabIndex = 15;
-            // 
-            // txtEmailID
-            // 
-            this.txtEmailID.Location = new System.Drawing.Point(247, 390);
-            this.txtEmailID.Name = "txtEmailID";
-            this.txtEmailID.Size = new System.Drawing.Size(238, 22);
-            this.txtEmailID.TabIndex = 16;
-            // 
-            // cboDesignation
-            // 
-            this.cboDesignation.FormattingEnabled = true;
-            this.cboDesignation.Items.AddRange(new object[] {
-            "Software Engineer",
-            "Sr SW Engineer",
-            "Consultant",
-            "Senior Consultant",
-            "Manager"});
-            this.cboDesignation.Location = new System.Drawing.Point(247, 342);
-            this.cboDesignation.Name = "cboDesignation";
-            this.cboDesignation.Size = new System.Drawing.Size(181, 24);
-            this.cboDesignation.TabIndex = 17;
-            // 
-            // btnUpdateEmployee
-            // 
-            this.btnUpdateEmployee.Location = new System.Drawing.Point(81, 434);
-            this.btnUpdateEmployee.Name = "btnUpdateEmployee";
-            this.btnUpdateEmployee.Size = new System.Drawing.Size(199, 34);
-            this.btnUpdateEmployee.TabIndex = 18;
-            this.btnUpdateEmployee.Text = "Update Employee";
-            this.btnUpdateEmployee.UseVisualStyleBackColor = true;
-            this.btnUpdateEmployee.Click += new System.EventHandler(this.btnUpdateEmployee_Click);
-            // 
-            // btnDeleteEmployee
-            // 
-            this.btnDeleteEmployee.Location = new System.Drawing.Point(337, 433);
-            this.btnDeleteEmployee.Name = "btnDeleteEmployee";
-            this.btnDeleteEmployee.Size = new System.Drawing.Size(210, 35);
-            this.btnDeleteEmployee.TabIndex = 19;
-            this.btnDeleteEmployee.Text = "Delete Employee";
-            this.btnDeleteEmployee.UseVisualStyleBackColor = true;
-            this.btnDeleteEmployee.Click += new System.EventHandler(this.btnDeleteEmployee_Click);
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(78, 61);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(97, 16);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Employee ID";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(793, 539);
+            this.ClientSize = new System.Drawing.Size(856, 539);
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -437,11 +437,11 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }

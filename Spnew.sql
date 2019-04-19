@@ -61,3 +61,16 @@ BEGIN
 	END 
 END
 GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcAgentOut') 
+DROP PROC prcAgentOut 
+GO
+CREATE proc [dbo].[prcAgentOut] @AgentId int,@FirstName varchar(30)
+output,@LastName varchar(30) output,@City varchar(30) output,
+@ssn varchar(30) output 
+as
+    select @FirstName=FirstName,@LastName=LastName,@City=CIty,
+   @SSN=SSN from Agent where AgentID=@AgentID
+GO
+
+

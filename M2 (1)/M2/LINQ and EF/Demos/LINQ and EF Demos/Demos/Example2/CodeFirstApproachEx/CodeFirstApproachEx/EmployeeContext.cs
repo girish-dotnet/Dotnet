@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.Runtime.Remoting.Contexts;
 
 namespace CodeFirstApproachEx
 {
 
-    class EmployeeContext :DbContext 
+    class EmployeeContext :Context 
     {
         public EmployeeContext() : base() { }
 
