@@ -31,3 +31,39 @@ BEGIN
 END
 GO
 
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcEmpSearch') 
+DROP PROC prcEmpSearch 
+GO
+
+CREATE PROC prcEmpSearch 
+					@empno INT
+AS
+BEGIN
+	SELECT * FROM Emp WHERE EMPNO=@empno
+END
+GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcAgentSearch') 
+DROP PROC prcAgentSearch 
+GO
+
+CREATE PROC prcAgentSearch 
+					@agentId INT
+AS
+BEGIN
+	SELECT * FROM Agent WHERE AgentId=@agentId
+END
+GO
+
+IF EXISTS(SELECT * FROM SYSOBJECTS WHERE Name='prcCustomerSearch') 
+DROP PROC prcCustomerSearch 
+GO
+
+CREATE PROC prcCustomerSearch 
+					@custId INT
+AS
+BEGIN
+	SELECT * FROM Customer WHERE CustId=@custId
+END
+GO
+
