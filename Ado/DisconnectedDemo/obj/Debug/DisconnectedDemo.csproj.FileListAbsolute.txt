@@ -1,0 +1,11 @@
+C:\csh\Ado\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe.config
+C:\csh\Ado\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe
+C:\csh\Ado\DisconnectedDemo\bin\Debug\DisconnectedDemo.pdb
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.csprojAssemblyReference.cache
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.Form1.resources
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.Properties.Resources.resources
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.csproj.GenerateResource.cache
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.csproj.CoreCompileInputs.cache
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.exe
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.pdb
+C:\csh\Ado\DisconnectedDemo\obj\Debug\DisconnectedDemo.Form2.resources

@@ -1,0 +1,17 @@
+C:\Wpf\ListBindings\bin\Debug\ListBindings.exe.config
+C:\Wpf\ListBindings\bin\Debug\ListBindings.exe
+C:\Wpf\ListBindings\bin\Debug\ListBindings.pdb
+C:\Wpf\ListBindings\obj\Debug\ListBindings.csprojAssemblyReference.cache
+C:\Wpf\ListBindings\obj\Debug\MainWindow.g.cs
+C:\Wpf\ListBindings\obj\Debug\App.g.cs
+C:\Wpf\ListBindings\obj\Debug\ListBindings_MarkupCompile.cache
+C:\Wpf\ListBindings\obj\Debug\ListBindings_MarkupCompile.lref
+C:\Wpf\ListBindings\obj\Debug\MainWindow.baml
+C:\Wpf\ListBindings\obj\Debug\ListBindings.g.resources
+C:\Wpf\ListBindings\obj\Debug\ListBindings.Properties.Resources.resources
+C:\Wpf\ListBindings\obj\Debug\ListBindings.csproj.GenerateResource.cache
+C:\Wpf\ListBindings\obj\Debug\ListBindings.csproj.CoreCompileInputs.cache
+C:\Wpf\ListBindings\obj\Debug\ListBindings.exe
+C:\Wpf\ListBindings\obj\Debug\ListBindings.pdb
+C:\Wpf\ListBindings\obj\Debug\ListBindingDemo.g.cs
+C:\Wpf\ListBindings\obj\Debug\ListBindingDemo.baml

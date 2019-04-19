@@ -41,7 +41,7 @@ namespace DataBinding
         /// <returns>DataView</returns>
         public DataView GetCategories()
         {
-            SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["WPFConnString"].ConnectionString);
+            SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["sqlpracticeConn"].ConnectionString);
             SqlCommand cmdCategories = new SqlCommand("SELECT * FROM Emp", con);
             if (con.State == ConnectionState.Closed)
             {

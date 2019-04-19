@@ -1,0 +1,14 @@
+C:\WinForms\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\WinForms\TicTacToe\bin\Debug\TicTacToe.exe
+C:\WinForms\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.exe
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\WinForms\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\WinForms\TicTacToe\bin\Debug\TicTacToe.application
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\WinForms\TicTacToe\obj\Debug\TicTacToe.application

@@ -1,0 +1,15 @@
+C:\csh\Ado\AdoStoredProc\bin\Debug\AdoStoredProc.exe.config
+C:\csh\Ado\AdoStoredProc\bin\Debug\AdoStoredProc.exe
+C:\csh\Ado\AdoStoredProc\bin\Debug\AdoStoredProc.pdb
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.csprojAssemblyReference.cache
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form1.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Properties.Resources.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.csproj.GenerateResource.cache
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.csproj.CoreCompileInputs.cache
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.exe
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.pdb
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form2.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form3.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form4.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form5.resources
+C:\csh\Ado\AdoStoredProc\obj\Debug\AdoStoredProc.Form6.resources

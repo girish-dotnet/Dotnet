@@ -118,3 +118,6 @@ C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\Dat
 C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
 C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\DataBinding.exe
 C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\DataBinding.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\EmployBinding.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\EmployBinding.baml

@@ -89,6 +89,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Customer.cs" />
+    <Compile Include="EmployBinding.xaml.cs">
+      <DependentUpon>EmployBinding.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ObservableCollectionDemo.xaml.cs">
       <DependentUpon>ObservableCollectionDemo.xaml</DependentUpon>
     </Compile>
@@ -141,6 +144,10 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="EmployBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="INotifyPropertyChangedDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -1,0 +1,10 @@
+C:\csh\Ado\AdoConnectedDemo\bin\Debug\AdoConnectedDemo.exe.config
+C:\csh\Ado\AdoConnectedDemo\bin\Debug\AdoConnectedDemo.exe
+C:\csh\Ado\AdoConnectedDemo\bin\Debug\AdoConnectedDemo.pdb
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.csprojAssemblyReference.cache
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.Form1.resources
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.Properties.Resources.resources
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.csproj.GenerateResource.cache
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.csproj.CoreCompileInputs.cache
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.exe
+C:\csh\Ado\AdoConnectedDemo\obj\Debug\AdoConnectedDemo.pdb

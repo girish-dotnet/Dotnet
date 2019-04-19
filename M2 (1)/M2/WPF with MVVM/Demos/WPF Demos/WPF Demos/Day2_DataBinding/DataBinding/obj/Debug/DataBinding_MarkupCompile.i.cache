@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\obj\Debug\
 DataBinding
 none
 false
 DEBUG;TRACE
-D:\Nachiket\Study Materials\Module 3\Module 3 Demos\WPF Demos\Day2_DataBinding\DataBinding\App.xaml
-7-886578087
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_DataBinding\DataBinding\App.xaml
+8-926342716
 
-191967506536
-17-1671570869
-INotifyPropertyChangedDemo.xaml;MultipleBindings.xaml;ElementToElementBinding.xaml;Menu.xaml;ObservableCollectionDemo.xaml;SimpleListBinding.xaml;WPFWithDatabase.xaml;
+201507773406
+17692264098
+EmployBinding.xaml;INotifyPropertyChangedDemo.xaml;MultipleBindings.xaml;ElementToElementBinding.xaml;Menu.xaml;ObservableCollectionDemo.xaml;SimpleListBinding.xaml;WPFWithDatabase.xaml;
 
-False
+True
 

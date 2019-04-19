@@ -10,3 +10,17 @@ D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableColle
 D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.csproj.GenerateResource.Cache
 D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.exe
 D:\Nachiket\Study Materials\WPF\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.exe.config
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\bin\Debug\ObservableCollectionWithDatabase.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\MainWindow.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\MainWindow.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\App.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase_MarkupCompile.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.g.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Demos\ObservableCollectionWithDatabase\ObservableCollectionWithDatabase\obj\x86\Debug\ObservableCollectionWithDatabase.pdb
