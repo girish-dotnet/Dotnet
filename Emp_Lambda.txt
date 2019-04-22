@@ -1,0 +1,17 @@
+class Emp
+    {
+        public int Empno { get; set; }
+        public string Name { get; set; }
+        public string Dept { get; set; }
+        public string Desig { get; set; }
+        public int Basic { get; set; }
+    }
+
+List<Emp> lstEmp = new List<Emp>()
+            {
+                new Emp{Empno=1,Name="Siddharth",Dept="Dotnet",Desig="Programmer",Basic=48843},
+                new Emp{Empno=2,Name="Naveen",Dept="Java",Desig="Programmer",Basic=64444},
+                new Emp{Empno=3,Name="Rajesh",Dept="Dotnet",Desig="Programmer",Basic=64433},
+                new Emp{Empno=4,Name="Guru",Dept="SQL",Desig="Programmer",Basic=56777},
+                new Emp{Empno=5,Name="Sai",Dept="Dynamics",Desig="TeamLead",Basic=99999} 
+            };

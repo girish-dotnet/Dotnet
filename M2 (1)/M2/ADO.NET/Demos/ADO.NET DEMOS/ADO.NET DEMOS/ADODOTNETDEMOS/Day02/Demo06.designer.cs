@@ -163,7 +163,7 @@
             this.label6.Location = new System.Drawing.Point(52, 162);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(109, 22);
+            this.label6.Size = new System.Drawing.Size(108, 22);
             this.label6.TabIndex = 80;
             this.label6.Text = "Position Code";
             // 
@@ -212,6 +212,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Demo06";
             this.Text = "Demo06";
+            this.Load += new System.EventHandler(this.Demo06_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

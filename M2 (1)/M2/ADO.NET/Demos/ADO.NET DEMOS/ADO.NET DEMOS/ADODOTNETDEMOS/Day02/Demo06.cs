@@ -110,5 +110,9 @@ namespace Day02
 
         }
 
-   }
+        private void Demo06_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
