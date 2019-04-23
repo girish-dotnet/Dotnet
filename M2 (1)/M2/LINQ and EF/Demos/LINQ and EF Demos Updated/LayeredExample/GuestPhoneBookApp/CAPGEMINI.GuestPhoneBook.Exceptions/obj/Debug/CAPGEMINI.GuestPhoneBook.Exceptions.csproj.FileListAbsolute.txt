@@ -3,3 +3,9 @@ D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\Lay
 D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.csprojResolveAssemblyReference.cache
 D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
 D:\My Data\ELTP Contents\New Course\Module 3\LINQ and Entity Framework\Demos\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\bin\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos Updated\LayeredExample\GuestPhoneBookApp\CAPGEMINI.GuestPhoneBook.Exceptions\obj\Debug\CAPGEMINI.GuestPhoneBook.Exceptions.pdb

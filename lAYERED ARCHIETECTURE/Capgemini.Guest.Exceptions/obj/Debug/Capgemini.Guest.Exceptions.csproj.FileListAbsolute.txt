@@ -1,0 +1,11 @@
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\bin\Debug\Capgemini.Guest.Exceptions.dll
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\bin\Debug\Capgemini.Guest.Exceptions.pdb
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.csproj.CoreCompileInputs.cache
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.dll
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\bin\Debug\Capgemini.Guest.Exceptions.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\bin\Debug\Capgemini.Guest.Exceptions.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.csprojAssemblyReference.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.csproj.CoreCompileInputs.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Exceptions\obj\Debug\Capgemini.Guest.Exceptions.pdb

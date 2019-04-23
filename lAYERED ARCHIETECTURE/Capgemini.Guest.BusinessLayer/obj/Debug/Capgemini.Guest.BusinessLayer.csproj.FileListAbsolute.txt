@@ -1,0 +1,16 @@
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.BusinessLayer.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.BusinessLayer.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.DataAccessLayer.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.Entities.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.Exceptions.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.DataAccessLayer.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.DataAccessLayer.dll.config
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.Entities.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\Capgemini.Guest.Exceptions.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\obj\Debug\Capgemini.Guest.BusinessLayer.csprojAssemblyReference.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\obj\Debug\Capgemini.Guest.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\obj\Debug\Capgemini.Guest.BusinessLayer.csproj.CopyComplete
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\obj\Debug\Capgemini.Guest.BusinessLayer.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.BusinessLayer\obj\Debug\Capgemini.Guest.BusinessLayer.pdb

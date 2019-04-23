@@ -1,0 +1,11 @@
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\bin\Debug\Capgemini.Guest.Entities.dll
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\bin\Debug\Capgemini.Guest.Entities.pdb
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.csproj.CoreCompileInputs.cache
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.dll
+C:\C#\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\bin\Debug\Capgemini.Guest.Entities.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\bin\Debug\Capgemini.Guest.Entities.pdb
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.csprojAssemblyReference.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.csproj.CoreCompileInputs.cache
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.dll
+C:\Dotnet\lAYERED ARCHIETECTURE\Capgemini.Guest.Entities\obj\Debug\Capgemini.Guest.Entities.pdb
