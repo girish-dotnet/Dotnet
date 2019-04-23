@@ -98,6 +98,11 @@ namespace GuestBookApplication
             {
                 Console.WriteLine(ex.Message);
             }
+
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
 
         private static void SearchGuestByID()

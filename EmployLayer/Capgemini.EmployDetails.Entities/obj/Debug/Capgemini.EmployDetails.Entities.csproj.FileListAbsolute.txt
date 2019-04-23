@@ -1,0 +1,6 @@
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csproj.CoreCompileInputs.cache
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.Entities\obj\Debug\Capgemini.EmployDetails.Entities.csprojAssemblyReference.cache

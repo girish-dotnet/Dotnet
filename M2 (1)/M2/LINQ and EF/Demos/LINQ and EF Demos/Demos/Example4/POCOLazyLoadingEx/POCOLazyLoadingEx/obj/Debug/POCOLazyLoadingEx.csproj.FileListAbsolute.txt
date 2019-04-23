@@ -10,3 +10,17 @@ D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadin
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.dll
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.xml
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\CompanyDatabase.mdf
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\CompanyDatabase_log.ldf
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.exe.config
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.exe
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\POCOLazyLoadingEx.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.xml
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.csproj.CopyComplete
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.exe
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example4\POCOLazyLoadingEx\POCOLazyLoadingEx\obj\Debug\POCOLazyLoadingEx.pdb

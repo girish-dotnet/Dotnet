@@ -13,3 +13,20 @@ D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.GenerateResource.Cache
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.exe
 D:\My Data\ELTP Contents\LINQ and Entity Framework\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase.mdf
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\CustomerDatabase_log.ldf
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe.config
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.exe
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\ComplexTypeEx.pdb
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.xml
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Form1.resources
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.csproj.CopyComplete
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.exe
+C:\Dotnet\M2 (1)\M2\LINQ and EF\Demos\LINQ and EF Demos\Demos\Example3\ComplexTypeEx\ComplexTypeEx\obj\Debug\ComplexTypeEx.pdb

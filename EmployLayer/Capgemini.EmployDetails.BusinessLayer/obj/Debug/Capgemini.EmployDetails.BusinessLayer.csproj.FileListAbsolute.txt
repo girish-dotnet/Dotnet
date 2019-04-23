@@ -1,0 +1,15 @@
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.BusinessLayer.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.BusinessLayer.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Entities.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.DataAccessLayer.dll.config
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Entities.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csproj.CopyComplete
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.pdb

@@ -69,7 +69,8 @@ namespace Capgemini.Guest.DataAccessLayer
             GuestBook searchedGuest = null;
             try
             {
-                searchedGuest = context.Guests.Where(g => g.GuestID == guestID).Select(g => g).FirstOrDefault();
+                searchedGuest = context.Guests.Where(g => 
+                    g.GuestID == guestID).Select(g => g).FirstOrDefault();
             }
             catch (Exception ex)
             {

@@ -10,7 +10,7 @@ namespace Capgemini.Guest.DataAccessLayer
 {
     class GuestBookContext: DbContext
     {
-        public GuestBookContext() : base("MyContextDB") { }
+        public GuestBookContext() : base() { }
     
         public DbSet<GuestBook> Guests { get; set; }
     }

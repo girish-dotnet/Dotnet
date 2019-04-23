@@ -8,6 +8,7 @@ namespace POCOLazyLoadingEx
 
     public partial class Employee
     {
+        [Key]
         public int ID { get; set; }
 
         [StringLength(50)]
