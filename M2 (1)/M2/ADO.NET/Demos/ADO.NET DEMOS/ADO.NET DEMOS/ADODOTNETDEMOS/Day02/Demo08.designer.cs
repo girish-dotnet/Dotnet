@@ -101,6 +101,7 @@
             this.Controls.Add(this.OrderDisplay);
             this.Name = "Demo08";
             this.Text = "Log Reporting";
+            this.Load += new System.EventHandler(this.Demo08_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -10,3 +10,17 @@ D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Sh
 D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.csproj.GenerateResource.Cache
 D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.exe
 D:\Nachiket\Study Materials\Module 3\Module3 Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.exe.config
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\bin\Debug\Day2_Shapes.pdb
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.csprojAssemblyReference.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\ShapesDemo.baml
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\ShapesDemo.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\App.g.cs
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes_MarkupCompile.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.g.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.Properties.Resources.resources
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.csproj.GenerateResource.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.csproj.CoreCompileInputs.cache
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.exe
+C:\Dotnet\M2 (1)\M2\WPF with MVVM\Demos\WPF Demos\WPF Demos\Day2_Shapes\Day2_Shapes\obj\Debug\Day2_Shapes.pdb
