@@ -32,11 +32,12 @@ namespace Capgemini.EmployDetails.DataAccessLayer
             bool employDeleted = false;
             try
             {
-                Employ guest = null;
-                guest = context.Employs.Where(e => e.EmployID == employID).Select(e => e).FirstOrDefault();
-                if (guest != null)
+                Employ employ = null;
+                employ = context.Employs.Where(e => e.EmployID ==
+                employID).Select(e => e).FirstOrDefault();
+                if (employ != null)
                 {
-                    context.Employs.Remove(guest);
+                    context.Employs.Remove(employ);
                     int status = context.SaveChanges();
                     if (status > 0)
                     {
@@ -46,7 +47,6 @@ namespace Capgemini.EmployDetails.DataAccessLayer
             }
             catch (Exception ex)
             {
-
                 throw new EmployException(ex.Message);
             }
             return employDeleted;
@@ -58,13 +58,13 @@ namespace Capgemini.EmployDetails.DataAccessLayer
             try
             {
                 Employ oldEmploy = null;
-                oldEmploy = context.Employs.Where(e => e.EmployID == employ.EmployID).Select(e => e).FirstOrDefault();
+                oldEmploy = context.Employs.Where(e => e.EmployID == 
+                    employ.EmployID).Select(e => e).FirstOrDefault();
                 if (oldEmploy != null)
                 {
                     oldEmploy.EmployName = employ.EmployName;
                     oldEmploy.Department = employ.Department;
                     oldEmploy.Salary = employ.Salary;
-                   
                     int status = context.SaveChanges();
                     if (status > 0)
                     {
@@ -74,7 +74,6 @@ namespace Capgemini.EmployDetails.DataAccessLayer
             }
             catch (Exception ex)
             {
-
                 throw new EmployException(ex.Message);
             }
             return employupdated;

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EmployDetails.BusinessLayer", "..\Capgemini.EmployDetails.BusinessLayer\Capgemini.EmployDetails.BusinessLayer.csproj", "{91A3A489-E7B5-41FC-8F08-562A288929DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClientApp", "..\WpfClientApp\WpfClientApp.csproj", "{4ECECB67-DBCF-49CC-B186-04388832E1D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{91A3A489-E7B5-41FC-8F08-562A288929DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A3A489-E7B5-41FC-8F08-562A288929DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A3A489-E7B5-41FC-8F08-562A288929DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECECB67-DBCF-49CC-B186-04388832E1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECECB67-DBCF-49CC-B186-04388832E1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECECB67-DBCF-49CC-B186-04388832E1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECECB67-DBCF-49CC-B186-04388832E1D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

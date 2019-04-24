@@ -13,3 +13,4 @@ C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\bin\Debug\EntityFramewo
 C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csproj.CopyComplete
 C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.dll
 C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.BusinessLayer\obj\Debug\Capgemini.EmployDetails.BusinessLayer.csprojAssemblyReference.cache
