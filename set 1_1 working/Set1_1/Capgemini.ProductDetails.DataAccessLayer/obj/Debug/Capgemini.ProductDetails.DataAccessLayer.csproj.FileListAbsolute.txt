@@ -1,0 +1,10 @@
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.DataAccessLayer.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.DataAccessLayer.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.Entities.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.Exceptions.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.Entities.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\bin\Debug\Capgemini.ProductDetails.Exceptions.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\obj\Debug\Capgemini.ProductDetails.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\obj\Debug\Capgemini.ProductDetails.DataAccessLayer.csproj.CopyComplete
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\obj\Debug\Capgemini.ProductDetails.DataAccessLayer.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.DataAccessLayer\obj\Debug\Capgemini.ProductDetails.DataAccessLayer.pdb

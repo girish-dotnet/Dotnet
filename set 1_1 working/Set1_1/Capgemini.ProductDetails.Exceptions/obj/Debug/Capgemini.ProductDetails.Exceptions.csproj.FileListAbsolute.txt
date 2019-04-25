@@ -1,0 +1,5 @@
+C:\csh\Set1_1\Capgemini.ProductDetails.Exceptions\bin\Debug\Capgemini.ProductDetails.Exceptions.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.Exceptions\bin\Debug\Capgemini.ProductDetails.Exceptions.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.Exceptions\obj\Debug\Capgemini.ProductDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.Exceptions\obj\Debug\Capgemini.ProductDetails.Exceptions.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.Exceptions\obj\Debug\Capgemini.ProductDetails.Exceptions.pdb

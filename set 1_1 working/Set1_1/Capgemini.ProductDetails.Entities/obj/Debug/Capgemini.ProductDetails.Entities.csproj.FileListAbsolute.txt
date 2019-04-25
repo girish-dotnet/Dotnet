@@ -1,0 +1,6 @@
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\bin\Debug\Capgemini.ProductDetails.Entities.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\bin\Debug\Capgemini.ProductDetails.Entities.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\obj\Debug\Capgemini.ProductDetails.Entities.csprojAssemblyReference.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\obj\Debug\Capgemini.ProductDetails.Entities.csproj.CoreCompileInputs.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\obj\Debug\Capgemini.ProductDetails.Entities.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.Entities\obj\Debug\Capgemini.ProductDetails.Entities.pdb

@@ -1,0 +1,13 @@
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.BusinessLayer.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.BusinessLayer.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.DataAccessLayer.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.Entities.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.Exceptions.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.DataAccessLayer.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.Entities.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\bin\Debug\Capgemini.ProductDetails.Exceptions.pdb
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\obj\Debug\Capgemini.ProductDetails.BusinessLayer.csprojAssemblyReference.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\obj\Debug\Capgemini.ProductDetails.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\obj\Debug\Capgemini.ProductDetails.BusinessLayer.csproj.CopyComplete
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\obj\Debug\Capgemini.ProductDetails.BusinessLayer.dll
+C:\csh\Set1_1\Capgemini.ProductDetails.BusinessLayer\obj\Debug\Capgemini.ProductDetails.BusinessLayer.pdb
