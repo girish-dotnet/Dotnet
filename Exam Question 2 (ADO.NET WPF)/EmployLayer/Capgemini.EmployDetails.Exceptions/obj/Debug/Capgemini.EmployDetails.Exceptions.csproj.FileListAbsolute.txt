@@ -1,0 +1,12 @@
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\bin\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\bin\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\csh\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.csprojAssemblyReference.cache
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\bin\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\bin\Debug\Capgemini.EmployDetails.Exceptions.pdb
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.csprojAssemblyReference.cache
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.dll
+C:\Exam\EmployLayer\Capgemini.EmployDetails.Exceptions\obj\Debug\Capgemini.EmployDetails.Exceptions.pdb
