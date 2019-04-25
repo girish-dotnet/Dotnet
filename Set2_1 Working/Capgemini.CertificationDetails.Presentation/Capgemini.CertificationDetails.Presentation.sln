@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CertificationDetails.Presentation", "Capgemini.CertificationDetails.Presentation.csproj", "{B05629E4-AAAE-4D6C-82C4-5A95867C8BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CertificationDetails.Entities", "..\Capgemini.CertificationDetails.Entities\Capgemini.CertificationDetails.Entities.csproj", "{3DE7CA1D-F4BA-4F37-B990-540A1538E3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CertificationDetails.Exceptions", "..\Capgemini.CertificationDetails.Exceptions\Capgemini.CertificationDetails.Exceptions.csproj", "{238260FB-6B86-492B-B418-C049904D44D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CertificationDetails.DataAccessLayer", "..\Capgemini.CertificationDetails.DataAccessLayer\Capgemini.CertificationDetails.DataAccessLayer.csproj", "{CCEC3A08-490F-4634-A077-48AF16A4C011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CertificationDetails.BusinessLayer", "..\Capgemini.CertificationDetails.BusinessLayer\Capgemini.CertificationDetails.BusinessLayer.csproj", "{406092EF-FF35-49DD-9E6B-C9A393975C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05629E4-AAAE-4D6C-82C4-5A95867C8BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05629E4-AAAE-4D6C-82C4-5A95867C8BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05629E4-AAAE-4D6C-82C4-5A95867C8BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05629E4-AAAE-4D6C-82C4-5A95867C8BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE7CA1D-F4BA-4F37-B990-540A1538E3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE7CA1D-F4BA-4F37-B990-540A1538E3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE7CA1D-F4BA-4F37-B990-540A1538E3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE7CA1D-F4BA-4F37-B990-540A1538E3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238260FB-6B86-492B-B418-C049904D44D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238260FB-6B86-492B-B418-C049904D44D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238260FB-6B86-492B-B418-C049904D44D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238260FB-6B86-492B-B418-C049904D44D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEC3A08-490F-4634-A077-48AF16A4C011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEC3A08-490F-4634-A077-48AF16A4C011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEC3A08-490F-4634-A077-48AF16A4C011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEC3A08-490F-4634-A077-48AF16A4C011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406092EF-FF35-49DD-9E6B-C9A393975C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406092EF-FF35-49DD-9E6B-C9A393975C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406092EF-FF35-49DD-9E6B-C9A393975C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406092EF-FF35-49DD-9E6B-C9A393975C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FF4D58-DF5F-42CC-94E3-DB4396342A8C}
+	EndGlobalSection
+EndGlobal

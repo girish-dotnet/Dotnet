@@ -1,0 +1,5 @@
+C:\csh\Set2_1\Capgemini.CertificationDetails.Exceptions\bin\Debug\Capgemini.CertificationDetails.Exceptions.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.Exceptions\bin\Debug\Capgemini.CertificationDetails.Exceptions.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.Exceptions\obj\Debug\Capgemini.CertificationDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\csh\Set2_1\Capgemini.CertificationDetails.Exceptions\obj\Debug\Capgemini.CertificationDetails.Exceptions.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.Exceptions\obj\Debug\Capgemini.CertificationDetails.Exceptions.pdb

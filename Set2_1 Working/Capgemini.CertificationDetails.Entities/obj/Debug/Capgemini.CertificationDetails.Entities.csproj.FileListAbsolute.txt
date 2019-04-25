@@ -1,0 +1,5 @@
+C:\csh\Set2_1\Capgemini.CertificationDetails.Entities\bin\Debug\Capgemini.CertificationDetails.Entities.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.Entities\bin\Debug\Capgemini.CertificationDetails.Entities.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.Entities\obj\Debug\Capgemini.CertificationDetails.Entities.csproj.CoreCompileInputs.cache
+C:\csh\Set2_1\Capgemini.CertificationDetails.Entities\obj\Debug\Capgemini.CertificationDetails.Entities.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.Entities\obj\Debug\Capgemini.CertificationDetails.Entities.pdb

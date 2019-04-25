@@ -1,0 +1,13 @@
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.BusinessLayer.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.BusinessLayer.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.DataAccessLayer.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.Entities.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.Exceptions.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.DataAccessLayer.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.Entities.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\bin\Debug\Capgemini.CertificationDetails.Exceptions.pdb
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\obj\Debug\Capgemini.CertificationDetails.BusinessLayer.csprojAssemblyReference.cache
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\obj\Debug\Capgemini.CertificationDetails.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\obj\Debug\Capgemini.CertificationDetails.BusinessLayer.csproj.CopyComplete
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\obj\Debug\Capgemini.CertificationDetails.BusinessLayer.dll
+C:\csh\Set2_1\Capgemini.CertificationDetails.BusinessLayer\obj\Debug\Capgemini.CertificationDetails.BusinessLayer.pdb
